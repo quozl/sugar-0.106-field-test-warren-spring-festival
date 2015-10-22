@@ -1,0 +1,60 @@
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+Logging disabled on purpose
+0dBFS level = 32768.0
+Csound version 5.13 (float samples) Jul 29 2012
+libsndfile-1.0.25
+UnifiedCSD:  /home/olpc/Activities/TamTamMini.activity/common/Resources/tamtamorc.csd
+STARTING FILE
+Creating options
+Creating orchestra
+Creating score
+orchname:  /tmp/csound-nyLQ1n.orc
+scorename: /tmp/csound-W9peRz.sco
+rtaudio: ALSA module enabled
+orch compiler:
+	opcode	homeSine	a	kki	
+	opcode	synthGrain	a	aaiiii	
+	opcode	ControlMatrice	i	iikkkk	
+	opcode	SourceMatrice	i	iaaaa	
+	opcode	FxMatrice	i	iaaaa	
+	opcode	controller	k	ii	
+	opcode	source	a	ii	
+	opcode	effects	a	ii	
+	instr	200	
+	instr	5600	
+	instr	5400	
+	instr	5401	
+	instr	5201	
+	instr	5202	
+	instr	5212	
+	instr	6000	
+	instr	5204	
+	instr	5203	
+	instr	5000	
+	instr	5022	
+	instr	5023	
+	instr	5001	5002	5003	5004	5005	5006	5007	5008	5009	5010	
+	instr	5101	5102	5103	5104	5105	5106	5107	5108	5109	5110	
+	instr	5011	5012	5013	5014	5015	5016	5017	5018	5019	5020	
+	instr	5111	5112	5113	5114	5115	5116	5117	5118	5119	5120	
+	instr	5021	
+sorting score ...
+	... done
+Csound version 5.13 (float samples) Jul 29 2012
+displays suppressed
+0dBFS level = 32768.0
+orch now loaded
+audio buffered in 256 sample-frame blocks
+ALSA: -b 256 not allowed on this device; using 341 instead
+writing 1024-byte blks of shorts to dac
+SECTION 1:
+1445055691.022938 WARNING root: No gtk.AccelGroup in the top level window.
+/home/olpc/Activities/TamTamMini.activity/TamTamMini.py:111: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.toolbox.toolbar.insert(widgets.StopButton(self), -1)
+inactive allocs returned to freespace
+end of score.		   overall amps:  28671.5  28671.5
+	   overall samples out of range:        0        0
+0 errors in performance
+6106 1024-byte soundblks of shorts written to dac
+1445055787.172077 WARNING root: No gtk.AccelGroup in the top level window.
+Exited with status 0, pid 1816 data (None, <open file '<fdopen>', mode 'w' at 0x1079808>, 'd91f65a49839fc1f6e7557e1ceed3166ecee92ae')

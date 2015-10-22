@@ -1,0 +1,105 @@
+
+(sugar-activity:6755): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:6755): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:6755): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:6755): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:6755): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:6755): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:6755): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:6755): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:6755): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445047223.745352 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047223.854727 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047223.973105 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.078879 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.182730 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.295401 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.321921 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.376822 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.403586 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.429770 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.487692 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.514120 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.562491 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.686484 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.714133 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.772269 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.900870 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.902182 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.903281 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.904410 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.905478 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.906607 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.907706 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.908804 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.909903 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.911032 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.912131 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.913229 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.959341 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.960654 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.961752 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.962851 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.963949 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.965048 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.966299 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.967459 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.968588 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.969687 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.970816 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047224.971945 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.004752 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.019949 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.051657 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.052939 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.054190 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.055380 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.056723 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.057852 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.058890 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.060110 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.061179 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.062308 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.063437 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047225.064535 WARNING root: No Gtk.AccelGroup in the top level window.
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 243, in _mousemove_cb
+    self._post(evt)
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 277, in _post
+    raise e
+pygame.error: video system not initialized
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 243, in _mousemove_cb
+    self._post(evt)
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 277, in _post
+    raise e
+pygame.error: video system not initialized
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 243, in _mousemove_cb
+    self._post(evt)
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 277, in _post
+    raise e
+pygame.error: video system not initialized
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 243, in _mousemove_cb
+    self._post(evt)
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 277, in _post
+    raise e
+pygame.error: video system not initialized
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 243, in _mousemove_cb
+    self._post(evt)
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 277, in _post
+    raise e
+pygame.error: video system not initialized
+Fatal Python error: (pygame parachute) Segmentation Fault
+* Pygame selected as renderer
+Terminated by signal 6, pid 6755 data (None, <open file '<fdopen>', mode 'w' at 0x1496e90>, dbus.ByteArray('dc23d9346820dc941cab62cb901bdb4b5b932a2e', variant_level=1))

@@ -1,0 +1,13 @@
+1445036791.830345 WARNING org.laptop.sugar.DataStore: Rebuilding index in /tmp/sugar-datastore-index-uAuXBf
+1445036791.882927 WARNING org.laptop.sugar.DataStore: Attempting to move tempfs index to disk
+1445036806.447990 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)
+1445043475.682089 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)
+1445043476.890860 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)
+1445043478.894034 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)
+1445043480.185690 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)
+1445043483.926688 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)
+1445043491.743033 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)
+1445043525.142233 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)
+1445043525.219839 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)
+1445049844.552237 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)
+1445049858.412405 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)

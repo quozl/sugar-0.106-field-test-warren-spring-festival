@@ -1,0 +1,106 @@
+
+(sugar-activity:2277): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:2277): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:2277): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:2277): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:2277): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:2277): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:2277): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:2277): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:2277): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445054576.881490 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054576.985616 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.096487 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.192892 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.288381 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.385854 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.410207 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.460531 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.484853 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.509206 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.559560 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.586477 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.629507 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.743856 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.770773 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.822927 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.941061 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.942281 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.943288 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.944631 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.946127 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.948812 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.950094 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.951223 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.952352 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.953542 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.955343 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054577.956503 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.001119 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.002340 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.003316 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.004324 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.005300 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.006277 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.007253 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.008260 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.009237 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.010366 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.011373 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.012350 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.042959 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.058553 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.085805 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.086996 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.087972 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.088979 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.090047 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.091055 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.092031 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.093038 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.094015 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.094991 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.095998 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054578.096975 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.257192 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.258627 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.259725 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.260854 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.264089 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.265279 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.266378 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.267507 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.268606 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.269735 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.270895 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054604.272024 WARNING root: No Gtk.AccelGroup in the top level window.
+* Pygame selected as renderer
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 124, in _quit_cb
+    pygame.event.post(pygame.event.Event(pygame.QUIT))
+pygame.error: video system not initialized
+1445054607.622060 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.623251 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.624349 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.705740 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.706960 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.707967 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.708974 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.710043 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.711080 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.712087 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.713125 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.714132 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.715139 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.716146 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.717153 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054607.868520 WARNING root: No Gtk.AccelGroup in the top level window.
+Exited with status 0, pid 2277 data (None, <open file '<fdopen>', mode 'w' at 0x10e7e90>, 'e410b6afc931b59752190006a9d628667788bdfc')

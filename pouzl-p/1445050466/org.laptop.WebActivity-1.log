@@ -1,0 +1,41 @@
+
+(sugar-activity:5777): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:5777): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:5777): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:5777): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:5777): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:5777): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:5777): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:5777): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:5777): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445044697.085928 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044697.125204 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044697.172781 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044697.198996 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044697.456656 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044697.457999 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044697.459006 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044697.478720 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044697.480093 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044697.481131 WARNING root: No Gtk.AccelGroup in the top level window.
+** Message: console message: file:///usr/share/library-common/js/library.js @69: TypeError: 'null' is not an object
+
+** Message: console message: file:///home/olpc/.library_pages/index.html @182: TypeError: 'undefined' is not an object
+
+** Message: console message: file:///home/olpc/.library_pages/index.html @182: TypeError: 'undefined' is not an object
+
+** Message: console message: file:///home/olpc/.library_pages/index.html @182: TypeError: 'undefined' is not an object
+
+1445044715.970389 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044716.020285 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044716.021597 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044716.022635 WARNING root: No Gtk.AccelGroup in the top level window.
+Exited with status 0, pid 5777 data (None, <open file '<fdopen>', mode 'w' at 0x145e548>, 'a4436bb88252b3b5dacde755816f5c4c192b0b5a')

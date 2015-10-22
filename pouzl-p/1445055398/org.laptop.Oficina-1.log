@@ -1,0 +1,61 @@
+1445054493.285877 ERROR root: skip /home/olpc/Activities/Paint.activity/fill/linux32_27 blobs: /home/olpc/Activities/Paint.activity/fill/linux32_27/_fill.so: cannot open shared object file: No such file or directory
+1445054493.290577 ERROR root: use /home/olpc/Activities/Paint.activity/fill/armv7l_27 blobs
+1445054493.291309 ERROR root: Found fill binaries.
+
+(sugar-activity:1379): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:1379): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:1379): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:1379): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:1379): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:1379): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:1379): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:1379): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:1379): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445054494.400227 ERROR root: Setting dpi to: 200.000000
+1445054494.495838 ERROR root: exception 'state'
+1445054494.750630 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054494.799519 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054494.824574 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054494.922779 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054494.924152 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054494.925190 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054494.942951 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054494.944294 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054494.945332 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054494.958119 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.105244 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.114399 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.123341 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.131855 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.140431 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.148884 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.157490 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.166065 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.174549 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.183094 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.191151 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054495.199757 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054496.037006 WARNING root: No Gtk.AccelGroup in the top level window.
+
+(sugar-activity:1379): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:1379): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:1379): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:1379): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+1445054567.589130 ERROR root: Cannot update the palette position.
+1445054617.703571 ERROR root: Cannot update the palette position.
+1445054633.311085 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054633.363361 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054633.364674 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054633.365711 WARNING root: No Gtk.AccelGroup in the top level window.
+Exited with status 0, pid 1379 data (None, <open file '<fdopen>', mode 'w' at 0x107de38>, '2c93abef0c279c3ae1fbf60d4e5107901a8900ac')

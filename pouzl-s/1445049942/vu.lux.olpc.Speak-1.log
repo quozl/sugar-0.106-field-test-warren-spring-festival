@@ -1,0 +1,28 @@
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+** Message: pygobject_register_sinkfunc is deprecated (GstObject)
+/usr/bin/espeak
+1445049501.737234 WARNING root: KeepButton has been deprecated since Sugar 0.94 and should not be used in newly written code.
+1445049501.748739 WARNING root: No gtk.AccelGroup in the top level window.
+1445049501.764303 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:117: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.props.palette.add(self.page_widget)
+1445049501.838888 ERROR root: <voice.Voice instance at 0x896ad0>
+1445049502.187124 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:194: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.__vbox.pack_start(toolbar_box, False)
+1445049502.198568 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:45: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.parent.owner.pack_start(self.page_widget)
+1445049502.216207 WARNING root: No gtk.AccelGroup in the top level window.
+1445049532.240469 ERROR root: set_voice to current voice English (Received Pronunci...
+1445049547.773366 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:108: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  box.pack_start(self.page_widget)
+1445049548.179281 WARNING root: No gtk.AccelGroup in the top level window.
+1445049550.143728 WARNING root: No gtk.AccelGroup in the top level window.
+1445049555.844899 ERROR root: set_voice to current voice English (Received Pronunci...
+1445049556.150441 WARNING root: No gtk.AccelGroup in the top level window.
+1445049584.200857 WARNING root: No gtk.AccelGroup in the top level window.
+1445049584.215139 WARNING root: No gtk.AccelGroup in the top level window.
+Best voice for LANG en_AU.UTF-8 seems to be en-uk-rp English (Received Pronunciation)
+Exited with status 0, pid 1237 data (None, <open file '<fdopen>', mode 'w' at 0x1177390>, dbus.ByteArray('4e75ef69b7f5e0e6c600c3aeeeaf976378e865a1', variant_level=1))

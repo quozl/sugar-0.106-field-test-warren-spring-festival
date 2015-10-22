@@ -1,0 +1,27 @@
+** Message: pygobject_register_sinkfunc is deprecated (GstObject)
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+1445042072.401451 WARNING root: KeepButton has been deprecated since Sugar 0.94 and should not be used in newly written code.
+1445042072.412804 WARNING root: No gtk.AccelGroup in the top level window.
+1445042072.428887 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:117: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.props.palette.add(self.page_widget)
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:191: GtkWarning: IA__gtk_container_remove: assertion `GTK_IS_TOOLBAR (container) || widget->parent == GTK_WIDGET (container)' failed
+  self.__vbox.remove(self._toolbar_box)
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:194: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.__vbox.pack_start(toolbar_box, False)
+1445042072.454094 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:45: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.parent.owner.pack_start(self.page_widget)
+1445042072.462731 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/palette.py:412: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  _sugarext.Menu.do_insert(self, item, position)
+1445042072.561455 WARNING root: No gtk.AccelGroup in the top level window.
+/home/olpc/Activities/Record.activity/record.py:181: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self._toolbar.insert(StopButton(self), -1)
+/usr/lib/python2.7/site-packages/sugar/graphics/palette.py:211: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  if menu_item.props.submenu is not None:
+/home/olpc/Activities/Record.activity/gplay.py:80: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  if not self._player.props.video_sink:
+1445042126.728691 WARNING root: No gtk.AccelGroup in the top level window.
+1445042126.754540 WARNING root: No gtk.AccelGroup in the top level window.
+Exited with status 0, pid 5221 data (None, <open file '<fdopen>', mode 'w' at 0x12b8b20>, dbus.ByteArray('a33a08539982826c2c2d44b8e09644fd57372966', variant_level=1))

@@ -1,0 +1,108 @@
+
+(main.py:546): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(main.py:546): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(main.py:546): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(main.py:546): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(main.py:546): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(main.py:546): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(main.py:546): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(main.py:546): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(main.py:546): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445049723.829945 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049723.881641 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049726.898457 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445049726.938892 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445049726.978992 WARNING root: icon_size is deprecated. Use pixel_size instead.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x40005f (main.py)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+1445049729.352467 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049729.382282 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049729.410816 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049729.439686 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049732.346943 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445049732.425739 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:546): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:546): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+/usr/lib/python2.7/site-packages/jarabe/main.py:418: Warning: g_object_set_property: assertion `G_IS_VALUE (value)' failed
+  Gtk.main()
+/usr/lib/python2.7/site-packages/jarabe/main.py:418: Warning: g_value_unset: assertion `G_IS_VALUE (value)' failed
+  Gtk.main()
+1445049772.942249 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050024.206745 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x1060df0>]
+1445050024.232471 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x1060df0>]
+1445050024.424580 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x1060fd0>]
+1445050024.450520 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x1060fd0>]
+1445050024.484242 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1064058>]
+1445050024.487385 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x1064080>]
+1445050024.511860 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1064058>]
+1445050024.524738 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x1064080>]
+1445050024.772022 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x1064120>]
+1445050024.793781 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x1064120>]
+1445050026.294148 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x10641e8>]
+1445050026.315937 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x10641e8>]
+1445050026.488544 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x1064210>]
+1445050026.516407 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x1064210>]
+1445050026.553120 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1064170>]
+1445050026.556416 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x10641e8>]
+1445050026.583851 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1064170>]
+1445050026.597645 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x10641e8>]
+1445050028.640156 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x1064260>]
+1445050028.662678 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x1064260>]
+1445050028.828877 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x10642d8>]
+1445050028.853474 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x10642d8>]
+1445050028.884571 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x10640f8>]
+1445050028.887714 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x1064210>]
+1445050028.909107 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x10640f8>]
+1445050028.917683 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x1064210>]
+1445050030.035389 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120e288>]
+1445050030.057240 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120e288>]
+1445050030.208515 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x120e2b0>]
+1445050030.230061 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x120e2b0>]
+1445050030.258686 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x120e288>]
+1445050030.261677 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120e1c0>]
+1445050030.282093 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x120e288>]
+1445050030.289478 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120e1c0>]
+1445050030.668873 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120e878>]
+1445050030.690723 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120e878>]
+1445050030.841663 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x120e850>]
+1445050030.863422 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x120e850>]
+/usr/lib/python2.7/site-packages/jarabe/journal/listview.py:330: Warning: g_object_set_property: assertion `G_IS_VALUE (value)' failed
+  self.get_child().size_allocate(allocation)
+/usr/lib/python2.7/site-packages/jarabe/journal/listview.py:330: Warning: g_value_unset: assertion `G_IS_VALUE (value)' failed
+  self.get_child().size_allocate(allocation)
+1445050033.949818 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0xdb4260>]
+1445050033.971638 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0xdb4260>]
+1445050034.147785 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0xdb4288>]
+1445050034.184223 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0xdb4288>]
+1445050034.214375 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0xdb4d78>]
+1445050034.217457 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0xdb4378>]
+1445050034.245289 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0xdb4d78>]
+1445050034.252888 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0xdb4378>]
+1445050034.315144 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050034.413776 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0xdb43c8>]
+1445050034.483967 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x120ed78>]
+1445050034.503681 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x120ec60>]
+1445050034.506855 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120ed28>]
+1445050034.762287 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120ed78>]
+1445050034.783955 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120ed78>]
+1445050034.961567 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x120eda0>]
+1445050034.995472 ERROR root: __buddies_set_data_cb [u'Papa', <sugar3.graphics.xocolor.XoColor instance at 0x120eda0>]
+1445050035.024311 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x120ec60>]
+1445050035.027332 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120ed50>]
+1445050035.060505 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x120ec60>]
+1445050035.067982 ERROR root: __buddies_set_data_cb [u'Mike', <sugar3.graphics.xocolor.XoColor instance at 0x120ed50>]
+1445050038.889820 ERROR root: PaletteWindowWidget popup get_visible True
+1445050041.887836 ERROR root: No activities are running
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.

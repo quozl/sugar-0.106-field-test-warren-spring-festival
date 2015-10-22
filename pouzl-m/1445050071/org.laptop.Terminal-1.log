@@ -1,0 +1,48 @@
+
+(sugar-activity:6729): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:6729): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:6729): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:6729): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:6729): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:6729): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:6729): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:6729): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:6729): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445050000.423331 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.474051 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.497702 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.500876 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.502127 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.583700 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.607321 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.632315 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.772940 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.774313 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.797873 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.799155 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.800101 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.801108 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.801993 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.818777 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.820273 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.821219 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.822317 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.823111 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.838400 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.839682 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.840720 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.855307 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.856497 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050000.857474 WARNING root: No Gtk.AccelGroup in the top level window.
+
+** (sugar-activity:6729): WARNING **: Failed to connect to the session manager: IO error occured opening connection
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.

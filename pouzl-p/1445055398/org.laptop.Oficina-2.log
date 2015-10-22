@@ -1,0 +1,92 @@
+1445054637.527851 ERROR root: skip /home/olpc/Activities/Paint.activity/fill/linux32_27 blobs: /home/olpc/Activities/Paint.activity/fill/linux32_27/_fill.so: cannot open shared object file: No such file or directory
+1445054637.530750 ERROR root: use /home/olpc/Activities/Paint.activity/fill/armv7l_27 blobs
+1445054637.531422 ERROR root: Found fill binaries.
+
+(sugar-activity:1418): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:1418): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:1418): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:1418): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:1418): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:1418): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:1418): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:1418): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:1418): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445054638.465992 ERROR root: Setting dpi to: 200.000000
+1445054638.825855 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054638.875721 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054638.899220 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054638.995503 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054638.996784 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054638.997761 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054639.015461 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054639.016682 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054639.017689 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054639.030415 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.180348 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.189045 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.197559 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.206196 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.214649 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.223042 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.231739 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.240376 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.248829 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.258442 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.266560 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054639.275105 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054640.107258 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054640.758564 ERROR root: read file size allocate
+
+(sugar-activity:1418): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:1418): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:1418): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:1418): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+1445054644.510212 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.519001 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.527515 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.536152 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.544666 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.553089 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.561695 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.570240 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.578816 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.587421 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.595509 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.603993 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054644.716724 ERROR root: Cannot update the palette position.
+1445054658.834858 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054658.840626 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054658.841877 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054662.722279 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054662.723621 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054662.724659 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054663.067646 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054663.068928 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054663.069935 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054663.440479 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054663.441761 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054663.442768 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054664.439625 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054664.441181 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054664.444355 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054669.408772 ERROR root: Cannot update the palette position.
+1445054671.724384 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054671.725697 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054671.726734 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054705.686970 ERROR root: Cannot update the palette position.
+1445054772.081257 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054772.129810 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054772.131123 WARNING root: No Gtk.AccelGroup in the top level window.
+1445054772.132160 WARNING root: No Gtk.AccelGroup in the top level window.
+Exited with status 0, pid 1418 data (None, <open file '<fdopen>', mode 'w' at 0x107dee8>, dbus.ByteArray('2c93abef0c279c3ae1fbf60d4e5107901a8900ac', variant_level=1))

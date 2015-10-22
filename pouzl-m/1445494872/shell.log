@@ -1,0 +1,62 @@
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445052097.612995 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052097.664722 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052100.689686 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052100.735676 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052100.781055 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052100.992970 WARNING root: icon_size is deprecated. Use pixel_size instead.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x40005f (main.py)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+1445052103.250752 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052103.281483 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052103.310078 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052103.341938 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052106.132160 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052106.212849 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:550): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:550): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+/usr/lib/python2.7/site-packages/jarabe/main.py:418: Warning: g_object_set_property: assertion `G_IS_VALUE (value)' failed
+  Gtk.main()
+/usr/lib/python2.7/site-packages/jarabe/main.py:418: Warning: g_value_unset: assertion `G_IS_VALUE (value)' failed
+  Gtk.main()
+
+(main.py:550): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+/usr/lib/python2.7/site-packages/jarabe/journal/listview.py:330: Warning: g_object_set_property: assertion `G_IS_VALUE (value)' failed
+  self.get_child().size_allocate(allocation)
+/usr/lib/python2.7/site-packages/jarabe/journal/listview.py:330: Warning: g_value_unset: assertion `G_IS_VALUE (value)' failed
+  self.get_child().size_allocate(allocation)
+1445052720.948658 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053200.948475 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053440.945911 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054281.016712 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055308.712391 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445055361.000111 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055361.048420 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055364.169544 ERROR root: Cannot update the palette position.
+1445055372.167713 ERROR root: Cannot update the palette position.
+
+(main.py:550): Gdk-WARNING **: main.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+Window manager warning: Fatal IO error 11 (Resource temporarily unavailable) on display ':0'.

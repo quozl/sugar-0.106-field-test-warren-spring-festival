@@ -1,0 +1,112 @@
+
+(sugar-activity:1130): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:1130): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:1130): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:1130): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:1130): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:1130): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:1130): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:1130): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:1130): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445053146.187671 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053146.226795 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053146.276020 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053146.302845 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053146.563038 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053146.564503 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053146.565571 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053146.586353 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053146.587665 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053146.588672 WARNING root: No Gtk.AccelGroup in the top level window.
+** Message: console message: file:///usr/share/library-common/js/library.js @69: TypeError: 'null' is not an object
+
+1445053151.092182 ERROR root: TEST <flags WEBKIT_HIT_TEST_RESULT_CONTEXT_DOCUMENT | WEBKIT_HIT_TEST_RESULT_CONTEXT_EDITABLE of type WebKitHitTestResultContext>
+/usr/lib/python2.7/threading.py:827: RuntimeWarning: tp_compare didn't return -1 or -2 for exception
+  return _active[_get_ident()]
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Browse.activity/palettes.py", line 116, in __button_press_cb
+    self._handle_event(event)
+  File "/home/olpc/Activities/Browse.activity/palettes.py", line 123, in _handle_event
+    logging.error("TEST %r", hit_context)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1575, in error
+    root.error(msg, *args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1166, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1257, in _log
+    record = self.makeRecord(self.name, level, fn, lno, msg, args, exc_info, func, extra)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1231, in makeRecord
+    rv = LogRecord(name, level, fn, lno, msg, args, exc_info, func)
+  File "/usr/lib/python2.7/logging/__init__.py", line 284, in __init__
+    self.threadName = threading.current_thread().name
+  File "/usr/lib/python2.7/threading.py", line 827, in currentThread
+    return _active[_get_ident()]
+NotImplementedError: Retrieving properties of type 'WebKitHitTestResultContext' is not implemented
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Browse.activity/palettes.py", line 116, in __button_press_cb
+    self._handle_event(event)
+  File "/home/olpc/Activities/Browse.activity/palettes.py", line 123, in _handle_event
+    logging.error("TEST %r", hit_context)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1575, in error
+    root.error(msg, *args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1166, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1257, in _log
+    record = self.makeRecord(self.name, level, fn, lno, msg, args, exc_info, func, extra)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1231, in makeRecord
+    rv = LogRecord(name, level, fn, lno, msg, args, exc_info, func)
+  File "/usr/lib/python2.7/logging/__init__.py", line 284, in __init__
+    self.threadName = threading.current_thread().name
+  File "/usr/lib/python2.7/threading.py", line 827, in currentThread
+    return _active[_get_ident()]
+NotImplementedError: Retrieving properties of type 'WebKitHitTestResultContext' is not implemented
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Browse.activity/palettes.py", line 116, in __button_press_cb
+    self._handle_event(event)
+  File "/home/olpc/Activities/Browse.activity/palettes.py", line 123, in _handle_event
+    logging.error("TEST %r", hit_context)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1575, in error
+    root.error(msg, *args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1166, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1257, in _log
+    record = self.makeRecord(self.name, level, fn, lno, msg, args, exc_info, func, extra)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1231, in makeRecord
+    rv = LogRecord(name, level, fn, lno, msg, args, exc_info, func)
+  File "/usr/lib/python2.7/logging/__init__.py", line 284, in __init__
+    self.threadName = threading.current_thread().name
+  File "/usr/lib/python2.7/threading.py", line 827, in currentThread
+    return _active[_get_ident()]
+NotImplementedError: Retrieving properties of type 'WebKitHitTestResultContext' is not implemented
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Browse.activity/palettes.py", line 116, in __button_press_cb
+    self._handle_event(event)
+  File "/home/olpc/Activities/Browse.activity/palettes.py", line 123, in _handle_event
+    logging.error("TEST %r", hit_context)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1575, in error
+    root.error(msg, *args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1166, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1257, in _log
+    record = self.makeRecord(self.name, level, fn, lno, msg, args, exc_info, func, extra)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1231, in makeRecord
+    rv = LogRecord(name, level, fn, lno, msg, args, exc_info, func)
+  File "/usr/lib/python2.7/logging/__init__.py", line 284, in __init__
+    self.threadName = threading.current_thread().name
+  File "/usr/lib/python2.7/threading.py", line 827, in currentThread
+    return _active[_get_ident()]
+NotImplementedError: Retrieving properties of type 'WebKitHitTestResultContext' is not implemented
+1445053189.641712 ERROR root: TEST <flags WEBKIT_HIT_TEST_RESULT_CONTEXT_DOCUMENT | WEBKIT_HIT_TEST_RESULT_CONTEXT_EDITABLE of type WebKitHitTestResultContext>
+1445053192.358417 ERROR root: TEST <flags WEBKIT_HIT_TEST_RESULT_CONTEXT_DOCUMENT | WEBKIT_HIT_TEST_RESULT_CONTEXT_EDITABLE of type WebKitHitTestResultContext>
+1445053200.871265 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053200.911915 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053200.913196 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053200.914295 WARNING root: No Gtk.AccelGroup in the top level window.
+Exited with status 0, pid 1130 data (None, <open file '<fdopen>', mode 'w' at 0x1079758>, '927d2fa415ea0205aa7666024d6188f50a4dd3e2')

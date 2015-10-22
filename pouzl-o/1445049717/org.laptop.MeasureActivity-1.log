@@ -1,0 +1,68 @@
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+** Message: pygobject_register_sinkfunc is deprecated (GstObject)
+1445035629.684803 DEBUG measure-activity: running on xo4 hardware
+1445035629.687122 WARNING measure-activity: Guessing there are 2 channels
+1445035629.710102 DEBUG measure-activity: Found controls for: ['Master', 'Capture', 'Analog Mic Boost', 'DC Input Bias', 'DC Mode Enable']
+1445035629.711475 DEBUG measure-activity: Found control: Capture
+1445035629.712483 DEBUG measure-activity: Found control: DC Mode Enable
+1445035629.713459 DEBUG measure-activity: Found control: DC Input Bias
+1445035629.714466 DEBUG measure-activity: Found control: Analog Mic Boost
+1445035629.715717 DEBUG measure-activity: Found control: Master
+1445035629.716938 DEBUG measure-activity: Set mute for DC mode (DC Mode Enable) to True
+1445035629.717762 DEBUG measure-activity: Set mute for Mic Bias (DC Input Bias) to False
+1445035629.719318 DEBUG measure-activity: setting boost to 8
+1445035629.720661 DEBUG measure-activity: Getting master (Master) volume: 79 (31)
+1445035629.721516 DEBUG measure-activity: Getting DC mode (DC Mode Enable) mute status: True
+1445035629.722309 DEBUG measure-activity: Getting Mic Bias (DC Input Bias) mute status: False
+1445035629.723042 DEBUG measure-activity: Getting Capture (Capture) volume: 49 (127)
+1445035629.723927 DEBUG measure-activity: Getting Mic Boost (Analog Mic Boost) mute status: False
+1445035630.014240 WARNING root: KeepButton has been deprecated since Sugar 0.94 and should not be used in newly written code.
+1445035630.025562 WARNING root: No gtk.AccelGroup in the top level window.
+1445035630.041126 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:117: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.props.palette.add(self.page_widget)
+/usr/lib/python2.7/site-packages/sugar/graphics/palette.py:412: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  _sugarext.Menu.do_insert(self, item, position)
+1445035630.561451 WARNING root: No gtk.AccelGroup in the top level window.
+1445035630.563953 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:194: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.__vbox.pack_start(toolbar_box, False)
+1445035630.575428 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:45: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.parent.owner.pack_start(self.page_widget)
+1445035630.584339 WARNING root: No gtk.AccelGroup in the top level window.
+1445035631.049519 DEBUG measure-activity: Set Sensor Type to sound
+1445035631.050251 DEBUG measure-activity: parameters: dc mode: False, bias: True, gain: 80, boost: True
+1445035631.050739 DEBUG measure-activity: sensor mode has changed
+1445035631.052052 DEBUG measure-activity: building new pipelines
+1445035631.174000 DEBUG measure-activity: Set mute for DC mode (DC Mode Enable) to True
+1445035631.174824 DEBUG measure-activity: Getting DC mode (DC Mode Enable) mute status: True
+1445035631.175312 DEBUG measure-activity: dcmode is: False
+1445035631.175983 DEBUG measure-activity: Set mute for Mic Bias (DC Input Bias) to False
+1445035631.176685 DEBUG measure-activity: Getting Mic Bias (DC Input Bias) mute status: False
+1445035631.177204 DEBUG measure-activity: bias is: True
+1445035631.178425 DEBUG measure-activity: Getting Capture (Capture) volume: 80 (204)
+1445035631.179005 DEBUG measure-activity: gain is 80
+1445035631.179524 DEBUG measure-activity: setting boost to 8
+1445035631.180225 DEBUG measure-activity: Getting Mic Boost (Analog Mic Boost) mute status: False
+1445035631.180744 DEBUG measure-activity: boost is True
+1445035631.181294 DEBUG measure-activity: Save state
+1445035631.181904 DEBUG measure-activity: Getting master (Master) volume: 79 (31)
+1445035631.182667 DEBUG measure-activity: Getting Mic Bias (DC Input Bias) mute status: False
+1445035631.183430 DEBUG measure-activity: Getting DC mode (DC Mode Enable) mute status: True
+1445035631.184162 DEBUG measure-activity: Getting Capture (Capture) volume: 80 (204)
+1445035631.184773 DEBUG measure-activity: splitter pad 0 added
+1445035631.186329 DEBUG measure-activity: Getting Mic Boost (Analog Mic Boost) mute status: False
+1445035631.200123 DEBUG measure-activity: splitter pad 1 added
+1445035631.201862 DEBUG measure-activity: pipeline added...
+1445035631.338215 DEBUG measure-activity: _notify_active_cb: start grabbing
+1445040338.969227 DEBUG measure-activity: Quitting
+1445040338.969959 DEBUG measure-activity: setting boost to 0
+1445040338.971058 DEBUG measure-activity: Set mute for DC mode (DC Mode Enable) to True
+1445040338.972492 DEBUG measure-activity: Set mute for Mic Bias (DC Input Bias) to False
+1445040339.004810 WARNING root: No gtk.AccelGroup in the top level window.
+1445040339.005665 WARNING root: No gtk.AccelGroup in the top level window.
+1445040339.038136 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/palette.py:211: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  if menu_item.props.submenu is not None:
+Exited with status 0, pid 842 data (None, <open file '<fdopen>', mode 'w' at 0xf69128>, '99bf0ed8e6f746a0886bc5516c20012a8ca8a996')

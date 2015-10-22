@@ -1,0 +1,35 @@
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+** Message: pygobject_register_sinkfunc is deprecated (GstObject)
+/usr/bin/espeak
+1445045287.050406 WARNING root: KeepButton has been deprecated since Sugar 0.94 and should not be used in newly written code.
+1445045287.068106 WARNING root: No gtk.AccelGroup in the top level window.
+1445045287.087179 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:117: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.props.palette.add(self.page_widget)
+1445045287.151358 ERROR root: <voice.Voice instance at 0x8a32d8>
+1445045287.482535 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:194: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.__vbox.pack_start(toolbar_box, False)
+1445045287.492850 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:45: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.parent.owner.pack_start(self.page_widget)
+1445045287.501150 WARNING root: No gtk.AccelGroup in the top level window.
+/home/olpc/Activities/Speak.activity/activity.py:445: PangoWarning: pango_layout_get_cursor_pos: assertion `index >= 0 && index <= layout->length' failed
+  pos = layout.get_cursor_pos(index)
+1445045334.869467 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:108: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  box.pack_start(self.page_widget)
+Best voice for LANG en_US.UTF-8 seems to be en-us English (USA)
+1445045343.786551 ERROR root: SHARED A CHAT
+1445045343.787222 ERROR root: _SETUP_TEXTCHANNEL
+1445045352.120596 ERROR root: set_voice <voice.Voice instance at 0x8a31e8>
+/usr/lib/python2.7/site-packages/sugar/activity/activity.py:370: GtkWarning: IA__gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+  gtk.main()
+1445045365.136191 ERROR root: Sierra joined the chat (<Buddy object at 0x6302328 (PresenceBuddy at 0xbc2860)>)
+1445045373.129111 ERROR root: Else: recieved from sender dbus.UInt32(2L) buddy <Buddy object at 0x6302210 (PresenceBuddy at 0x63a5910)>
+1445045388.647604 ERROR root: Else: recieved from sender dbus.UInt32(2L) buddy <Buddy object at 0x6302210 (PresenceBuddy at 0x63a5910)>
+1445045400.327597 ERROR root: set_voice to current voice English (USA)
+1445045414.328787 WARNING root: No gtk.AccelGroup in the top level window.
+1445045414.332480 WARNING root: No gtk.AccelGroup in the top level window.
+Loading brain from bot/alice.brn... done (40564 categories in 7.97 seconds)
+Exited with status 0, pid 6135 data (None, <open file '<fdopen>', mode 'w' at 0x1496cd8>, dbus.ByteArray('4e75ef69b7f5e0e6c600c3aeeeaf976378e865a1', variant_level=1))

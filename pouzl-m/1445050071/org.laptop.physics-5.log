@@ -1,0 +1,95 @@
+
+(sugar-activity:5817): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:5817): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:5817): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:5817): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:5817): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:5817): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:5817): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:5817): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:5817): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445047881.134909 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.252066 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.379538 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.478842 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.576071 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.676199 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.702719 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.752585 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.777243 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.804617 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.856161 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.893271 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047881.944784 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.067129 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.097189 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.152792 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.281576 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.282919 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.285666 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.286978 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.288260 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.289511 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.290854 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.292380 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.293906 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.295096 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.296255 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.297385 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.343222 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.344504 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.345602 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.346731 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.347861 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.350210 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.351370 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.352499 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.353598 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.354727 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.355826 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.356924 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.393301 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.409842 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.441489 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.442801 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.443899 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.445029 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.446127 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.447256 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.448355 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.449362 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.450522 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.451620 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.452750 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047882.453848 WARNING root: No Gtk.AccelGroup in the top level window.
+1445048656.416067 ERROR root: PaletteWindowWidget popup get_visible True
+1445048716.291067 ERROR root: Error saving activity object to datastore
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/sugar3/activity/activity.py", line 1001, in _prepare_close
+    self.save()
+  File "/usr/lib/python2.7/site-packages/sugar3/activity/activity.py", line 825, in save
+    self.write_file(file_path)
+  File "/home/olpc/Activities/Physics.activity/activity.py", line 148, in write_file
+    self.game.write_file(file_path)
+  File "/home/olpc/Activities/Physics.activity/physics.py", line 92, in write_file
+    self.world.json_save(path, additional_data, serialize=True)
+  File "/home/olpc/Activities/Physics.activity/myelements/elements.py", line 551, in json_save
+    f.write(json.dumps(worldmodel))
+  File "/usr/lib/python2.7/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/usr/lib/python2.7/json/encoder.py", line 201, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python2.7/json/encoder.py", line 264, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/lib/python2.7/json/encoder.py", line 178, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: <Swig Object of type 'b2Body *' at 0x70a8d8> is not JSON serializable
+Terminated by signal 11, pid 5817 data (None, <open file '<fdopen>', mode 'w' at 0xf82910>, 'a461052ef7341336f46caf790fc4f443d3dd01b6')

@@ -1,0 +1,63 @@
+
+(main.py:615): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(main.py:615): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(main.py:615): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(main.py:615): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(main.py:615): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(main.py:615): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(main.py:615): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(main.py:615): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(main.py:615): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+
+(main.py:615): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(main.py:615): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(main.py:615): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(main.py:615): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(main.py:615): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/intro/window.py", line 445, in __key_press_cb
+    self._intro_box.next()
+  File "/usr/lib/python2.7/site-packages/jarabe/intro/window.py", line 389, in next
+    self._setup_page()
+  File "/usr/lib/python2.7/site-packages/jarabe/intro/window.py", line 328, in _setup_page
+    setup_methods[self._page](self)
+KeyError: 4
+
+(main.py:615): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+1444989036.484945 WARNING root: No Gtk.AccelGroup in the top level window.
+1444989036.542196 WARNING root: No Gtk.AccelGroup in the top level window.
+1444989037.133565 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444989037.295400 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444989037.408407 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444989039.018667 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444989039.066884 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444989039.107625 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444989040.833364 WARNING root: No Gtk.AccelGroup in the top level window.
+1444989040.863057 WARNING root: No Gtk.AccelGroup in the top level window.
+1444989040.891713 WARNING root: No Gtk.AccelGroup in the top level window.
+1444989040.920400 WARNING root: No Gtk.AccelGroup in the top level window.
+1444989043.681997 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444989043.760549 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:615): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:615): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:615): Gdk-WARNING **: main.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+Window manager warning: Fatal IO error 11 (Resource temporarily unavailable) on display ':0'.

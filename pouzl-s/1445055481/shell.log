@@ -1,0 +1,119 @@
+
+(main.py:532): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(main.py:532): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(main.py:532): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(main.py:532): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(main.py:532): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(main.py:532): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(main.py:532): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(main.py:532): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(main.py:532): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445052207.225941 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052207.276875 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052210.304340 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052210.344318 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052210.383869 WARNING root: icon_size is deprecated. Use pixel_size instead.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x40005f (main.py)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+1445052212.718922 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052212.748737 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052212.777210 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052212.806385 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052215.574940 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052215.653950 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:532): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:532): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+/usr/lib/python2.7/site-packages/jarabe/main.py:418: Warning: g_object_set_property: assertion `G_IS_VALUE (value)' failed
+  Gtk.main()
+/usr/lib/python2.7/site-packages/jarabe/main.py:418: Warning: g_value_unset: assertion `G_IS_VALUE (value)' failed
+  Gtk.main()
+1445052308.189839 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xf90eb8>]
+1445052308.215045 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xf90eb8>]
+1445052309.402063 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xfa6a30>]
+1445052309.498925 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xfa6990>]
+1445052309.522058 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xfa6990>]
+1445052309.653282 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xfa67d8>]
+1445052309.676750 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xfa67d8>]
+1445052310.655355 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xfa69e0>]
+1445052310.677816 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xfa69e0>]
+1445052312.377218 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xfa6b98>]
+1445052312.399556 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xfa6b98>]
+1445052313.469228 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10ddb20>]
+1445052313.495565 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10ddb20>]
+1445052313.819509 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10e0080>]
+1445052313.841024 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10e0080>]
+/usr/lib/python2.7/site-packages/jarabe/journal/listview.py:330: Warning: g_object_set_property: assertion `G_IS_VALUE (value)' failed
+  self.get_child().size_allocate(allocation)
+/usr/lib/python2.7/site-packages/jarabe/journal/listview.py:330: Warning: g_value_unset: assertion `G_IS_VALUE (value)' failed
+  self.get_child().size_allocate(allocation)
+1445052316.711690 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10e0738>]
+1445052316.751211 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10e0738>]
+1445052316.926900 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10e07d8>]
+1445052317.089376 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10e0080>]
+1445052317.115651 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10e0080>]
+1445052317.447225 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10e08a0>]
+1445052317.481710 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x10e08a0>]
+1445052936.064532 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445052937.481912 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052937.524666 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052937.589209 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053017.499574 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445053018.920995 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053018.976198 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053019.030546 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053098.575091 ERROR root: Error getting the access point properties: org.freedesktop.DBus.Error.UnknownMethod: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445053098.577318 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445053099.923650 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053099.966738 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053100.013000 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053922.490298 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445053923.891822 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053923.951724 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445053924.004974 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054368.123098 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054368.213766 WARNING root: icon_size is deprecated. Use pixel_size instead.
+Window manager warning: last_focus_time (737557) is greater than comparison timestamp (737555).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+1445054556.221304 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054569.190694 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0xe00066 (sugar-acti)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0xe0007b (sugar-acti)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+1445054794.856893 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445055004.843618 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445055040.709890 ERROR dbus.proxies: Introspect error on :1.42:/org/laptop/Activity/ca8bc4b8331be3ce9f0954f0d7e0052af0383829: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445055049.403493 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055065.713033 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445055136.503744 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/favoritesview.py", line 646, in __active_activity_changed_cb
+    self._update()
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/favoritesview.py", line 625, in _update
+    self.get_window().set_cursor(None)
+AttributeError: 'NoneType' object has no attribute 'set_cursor'
+1445055270.728021 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445055270.729333 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445055272.005768 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055272.074031 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055272.121911 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055406.696950 ERROR root: No activities are running
+
+(main.py:532): Gdk-WARNING **: main.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+

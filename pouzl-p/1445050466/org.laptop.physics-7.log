@@ -1,0 +1,124 @@
+
+(sugar-activity:6887): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:6887): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:6887): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:6887): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:6887): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:6887): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:6887): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:6887): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:6887): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445047731.916861 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.026785 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.138388 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.235037 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.331259 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.429922 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.456198 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.505423 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.529837 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.557028 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.609579 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.634756 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.679953 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.796316 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.822195 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.876791 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.996970 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047732.999136 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.000387 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.001456 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.002493 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.003531 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.004568 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.005606 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.006613 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.007681 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.008719 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.009787 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.053335 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.054556 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.055594 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.056570 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.057791 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.059012 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.060293 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.061392 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.062460 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.063498 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.064505 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.065512 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.096609 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.110739 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.138357 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.139670 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.141135 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.142355 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.143423 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.144461 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.145468 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.146506 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.147543 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.148581 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.149679 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047733.150748 WARNING root: No Gtk.AccelGroup in the top level window.
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 243, in _mousemove_cb
+    self._post(evt)
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 277, in _post
+    raise e
+pygame.error: video system not initialized
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 243, in _mousemove_cb
+    self._post(evt)
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 277, in _post
+    raise e
+pygame.error: video system not initialized
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 243, in _mousemove_cb
+    self._post(evt)
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 277, in _post
+    raise e
+pygame.error: video system not initialized
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 243, in _mousemove_cb
+    self._post(evt)
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 277, in _post
+    raise e
+pygame.error: video system not initialized
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 243, in _mousemove_cb
+    self._post(evt)
+  File "/home/olpc/Activities/Physics.activity/sugargame/event.py", line 277, in _post
+    raise e
+pygame.error: video system not initialized
+1445047769.800772 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.802115 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.803335 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.819662 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.821097 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.822226 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.823355 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.824454 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.828604 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.829886 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.830984 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.832053 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.833090 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.834128 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.835165 WARNING root: No Gtk.AccelGroup in the top level window.
+1445047769.908621 WARNING root: No Gtk.AccelGroup in the top level window.
+* Pygame selected as renderer
+alpha difference: 59.886266849
+alpha difference: 59.886266849
+alpha difference: 59.886266849
+alpha difference: 105.255118703
+Exited with status 0, pid 6887 data (None, <open file '<fdopen>', mode 'w' at 0x12b8650>, dbus.ByteArray('dc23d9346820dc941cab62cb901bdb4b5b932a2e', variant_level=1))

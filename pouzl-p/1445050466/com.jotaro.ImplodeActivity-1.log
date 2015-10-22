@@ -1,0 +1,23 @@
+
+(sugar-activity:1621): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:1621): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:1621): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:1621): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:1621): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:1621): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:1621): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:1621): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:1621): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445040753.023275 WARNING root: No Gtk.AccelGroup in the top level window.
+1445040753.024801 WARNING root: No Gtk.AccelGroup in the top level window.
+1445040899.758771 WARNING root: No Gtk.AccelGroup in the top level window.
+1445040899.759961 WARNING root: No Gtk.AccelGroup in the top level window.
+Exited with status 0, pid 1621 data (None, <open file '<fdopen>', mode 'w' at 0x12b8650>, '1e73be50f9a5a7ef307c966730376888cf824304')

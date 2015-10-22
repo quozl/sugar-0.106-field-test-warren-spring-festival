@@ -1,0 +1,219 @@
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(main.py:550): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445049948.514244 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049948.565300 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049951.534813 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445049951.580253 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445049951.625236 WARNING root: icon_size is deprecated. Use pixel_size instead.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x40005f (main.py)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+1445049954.035911 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049954.065391 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049954.093773 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049954.122398 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049956.892204 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445049956.970420 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:550): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:550): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+1445050180.519163 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445050181.919226 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050181.992646 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050182.060940 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050360.697716 ERROR root: Cannot update the palette position.
+1445050373.431356 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445050505.567434 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050698.871328 ERROR root: Cannot update the palette position.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/favoritesview.py", line 646, in __active_activity_changed_cb
+    self._update()
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/favoritesview.py", line 625, in _update
+    self.get_window().set_cursor(None)
+AttributeError: 'NoneType' object has no attribute 'set_cursor'
+1445050711.979024 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445050732.043660 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445050763.285207 ERROR root: Cannot update the palette position.
+1445050789.600057 ERROR dbus.proxies: Introspect error on :1.38:/org/laptop/Activity/29c325849f676c86bf848ccb3ba320835b372b11: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/favoritesview.py", line 646, in __active_activity_changed_cb
+    self._update()
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/favoritesview.py", line 625, in _update
+    self.get_window().set_cursor(None)
+AttributeError: 'NoneType' object has no attribute 'set_cursor'
+1445050814.603505 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445050815.335836 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x11aada0>]
+/usr/lib/python2.7/site-packages/jarabe/main.py:418: Warning: g_object_set_property: assertion `G_IS_VALUE (value)' failed
+  Gtk.main()
+/usr/lib/python2.7/site-packages/jarabe/main.py:418: Warning: g_value_unset: assertion `G_IS_VALUE (value)' failed
+  Gtk.main()
+1445050815.487264 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e91c0>]
+1445050815.542165 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e91c0>]
+1445050816.942830 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x11aad28>]
+1445050816.968618 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x11aad28>]
+1445050817.382283 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050817.425435 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050817.452016 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050818.397207 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050818.421468 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050818.462117 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050818.472341 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050819.175069 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050819.200002 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050819.941091 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050819.979818 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050820.299611 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050820.309926 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050820.431691 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050820.485097 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050820.532674 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e93f0>]
+1445050820.705098 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050820.778127 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050820.802266 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050821.140004 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9828>]
+1445050821.162252 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9828>]
+1445050821.315419 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050821.320363 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050821.331929 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050821.354055 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050821.771352 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050821.781820 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050821.803884 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050822.154073 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050822.164174 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050822.186483 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050822.409292 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050822.419576 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050822.441945 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050822.690084 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050822.700185 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050822.722738 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.072988 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.083120 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.106069 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.468252 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.479482 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.503286 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.578603 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.638936 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.664235 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.718160 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.765371 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.810933 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.854696 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.898214 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050823.940786 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050824.078664 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050824.088216 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050824.124685 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050824.133870 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050824.162038 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050824.171193 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e98c8>]
+1445050824.501394 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9d78>]
+1445050824.511068 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9d78>]
+1445050824.576528 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.586507 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.620656 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.635976 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.669912 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.691335 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.723012 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.744130 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.897512 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.926107 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.950063 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050824.997976 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050825.023397 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/frame/eventarea.py", line 136, in _drag_motion_cb
+    drag_context.drag_status(0, timestamp)
+AttributeError: 'gtk.gdk.X11DragContext' object has no attribute 'drag_status'
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/frame/eventarea.py", line 136, in _drag_motion_cb
+    drag_context.drag_status(0, timestamp)
+AttributeError: 'gtk.gdk.X11DragContext' object has no attribute 'drag_status'
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/frame/eventarea.py", line 136, in _drag_motion_cb
+    drag_context.drag_status(0, timestamp)
+AttributeError: 'gtk.gdk.X11DragContext' object has no attribute 'drag_status'
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/frame/eventarea.py", line 136, in _drag_motion_cb
+    drag_context.drag_status(0, timestamp)
+AttributeError: 'gtk.gdk.X11DragContext' object has no attribute 'drag_status'
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/frame/eventarea.py", line 136, in _drag_motion_cb
+    drag_context.drag_status(0, timestamp)
+AttributeError: 'gtk.gdk.X11DragContext' object has no attribute 'drag_status'
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/frame/eventarea.py", line 136, in _drag_motion_cb
+    drag_context.drag_status(0, timestamp)
+AttributeError: 'gtk.gdk.X11DragContext' object has no attribute 'drag_status'
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/frame/eventarea.py", line 136, in _drag_motion_cb
+    drag_context.drag_status(0, timestamp)
+AttributeError: 'gtk.gdk.X11DragContext' object has no attribute 'drag_status'
+1445050825.797597 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050825.846883 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050826.028737 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050826.043599 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9cd8>]
+1445050826.244039 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.257772 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.290883 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.308797 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.341970 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.360006 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.392171 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.411855 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.462484 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.486471 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.640828 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.662557 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.781301 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050826.806051 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e18>]
+1445050831.631978 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445050900.779570 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9918>]
+1445050900.813735 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9918>]
+1445050901.007907 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e90>]
+1445050901.035212 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13e9e90>]
+1445050903.280421 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13fc210>]
+1445050903.305049 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13fc210>]
+1445050903.398340 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13fc288>]
+1445050903.423548 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13fc288>]
+1445050903.814720 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13fc288>]
+1445050903.847953 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13fc288>]
+1445050907.168661 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13fc1c0>]
+1445050907.199819 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13fc1c0>]
+1445051265.242818 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x140c198>]
+1445051265.665945 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13fc1c0>]
+1445051265.691915 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x13fc1c0>]
+1445051266.023458 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x140c198>]
+1445051266.044271 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x140c198>]
+1445051266.271627 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x140c0f8>]
+1445051266.440511 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x140c260>]
+1445051266.462301 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x140c260>]
+1445051267.151235 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1182828>]
+1445051267.190603 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1182828>]
+1445051450.618838 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445051732.650136 ERROR dbus.proxies: Introspect error on :1.38:/org/laptop/Activity/29c325849f676c86bf848ccb3ba320835b372b11: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445051757.652761 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(main.py:550): Gdk-WARNING **: main.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.

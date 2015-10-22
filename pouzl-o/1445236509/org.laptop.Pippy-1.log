@@ -1,0 +1,56 @@
+/usr/lib/python2.7/site-packages/gi/types.py:213: RuntimeWarning: Mixin class groupthink.groupthink_base.UnorderedHandlerAcceptor is an old style class, please update this to derive from "object".
+  RuntimeWarning)
+/usr/lib/python2.7/site-packages/gi/types.py:213: RuntimeWarning: Mixin class groupthink.groupthink_base.HandlerAcceptor is an old style class, please update this to derive from "object".
+  RuntimeWarning)
+/usr/lib/python2.7/site-packages/gi/types.py:213: RuntimeWarning: Mixin class groupthink.groupthink_base.CausalHandlerAcceptor is an old style class, please update this to derive from "object".
+  RuntimeWarning)
+
+(sugar-activity:1010): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:1010): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:1010): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:1010): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:1010): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:1010): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:1010): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:1010): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:1010): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445052869.567310 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.613788 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.637287 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.672016 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.673298 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.674457 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.700489 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.701771 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.702778 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.839557 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.878834 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.920032 WARNING root: No Gtk.AccelGroup in the top level window.
+1445052869.991688 WARNING root: No Gtk.AccelGroup in the top level window.
+
+(sugar-activity:1010): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:1010): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:1010): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:1010): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:1010): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+1445053062.352070 ERROR root: PaletteWindowWidget popup get_visible True
+1445053065.478657 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053065.480305 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053065.481403 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053065.482563 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053065.543384 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053065.544819 WARNING root: No Gtk.AccelGroup in the top level window.
+1445053065.545887 WARNING root: No Gtk.AccelGroup in the top level window.
+Exited with status 0, pid 1010 data (None, <open file '<fdopen>', mode 'w' at 0xf6de38>, 'a7b8e5338ad451a63b037d5e60cd6776c37d3846')

@@ -1,0 +1,32 @@
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+1445045630.587546 WARNING root: KeepButton has been deprecated since Sugar 0.94 and should not be used in newly written code.
+1445045630.600088 WARNING root: No gtk.AccelGroup in the top level window.
+1445045630.616415 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:117: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.props.palette.add(self.page_widget)
+1445045630.649649 WARNING root: No gtk.AccelGroup in the top level window.
+1445045630.654562 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/palette.py:412: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  _sugarext.Menu.do_insert(self, item, position)
+1445045630.657004 WARNING root: No gtk.AccelGroup in the top level window.
+/home/olpc/Activities/Calculate.activity/toolbars.py:357: GtkWarning: gtk_toolbar_remove: assertion `content_to_remove != NULL' failed
+  toolbar.remove(item)
+1445045631.231772 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:194: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.__vbox.pack_start(toolbar_box, False)
+1445045631.244620 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:45: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.parent.owner.pack_start(self.page_widget)
+1445045631.253165 WARNING root: No gtk.AccelGroup in the top level window.
+1445045631.258841 WARNING root: No gtk.AccelGroup in the top level window.
+1445045631.265768 WARNING root: No gtk.AccelGroup in the top level window.
+1445047194.516012 WARNING root: No gtk.AccelGroup in the top level window.
+1445047194.542441 WARNING root: No gtk.AccelGroup in the top level window.
+1445047194.588187 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/palette.py:211: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  if menu_item.props.submenu is not None:
+1445047194.595267 WARNING root: No gtk.AccelGroup in the top level window.
+-8 (6, 0, 0, 0, 0, 0, 0, 0, 0)
+-8 (6, 0, 0, 0, 0, 0, 0, 0, 0)
+-8 (6, 0, 0, 0, 0, 0, 0, 0, 0)
+Exited with status 0, pid 6318 data (None, <open file '<fdopen>', mode 'w' at 0x1496e90>, '4bc70e529af3a142c4fe7b04aa828bd168cc0171')

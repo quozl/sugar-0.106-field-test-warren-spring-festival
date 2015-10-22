@@ -1,0 +1,58 @@
+
+(main.py:530): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(main.py:530): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(main.py:530): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(main.py:530): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(main.py:530): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(main.py:530): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(main.py:530): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(main.py:530): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(main.py:530): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445050153.882343 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050153.946155 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050156.990314 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050157.030872 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050157.071003 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050157.291645 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050159.984241 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050160.016773 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050160.047108 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050160.077137 WARNING root: No Gtk.AccelGroup in the top level window.
+1445050162.843006 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445050162.924427 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:530): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:530): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+1445050836.133045 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445050838.240406 ERROR dbus.proxies: Introspect error on :1.32:/org/laptop/Activity/29c325849f676c86bf848ccb3ba320835b372b11: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445050863.243214 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445050863.244526 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445050875.235279 ERROR dbus.proxies: Introspect error on :1.32:/org/laptop/Activity/29c325849f676c86bf848ccb3ba320835b372b11: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445050900.239582 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445050966.133930 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445051280.755176 ERROR root: Cannot update the palette position.
+1445051284.455067 ERROR root: Cannot update the palette position.
+1445051405.320393 ERROR root: Cannot update the palette position.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/meshbox.py", line 404, in _buddy_removed_cb
+    self._remove_buddy(buddy_model)
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/meshbox.py", line 430, in _remove_buddy
+    icon = self._buddies[buddy_model.props.key]
+KeyError: dbus.ByteArray('AAAAB3NzaC1kc3MAAACBAJh5N2/3X4aMjyMbm/2VyJEC6H9VqJ6lC5Z7HDx+DZl0kQ8+LonI9b38iEbfe4SVnl/b9j71Mx+mFfnqGsUe4cGIzTD0DqNm60YOswOPnrZBbQ26OpbLV5NL+g1A1LzOFg9YYP5lsHGj3b15JzvhWc3MDvfnHEdpABXSW3PVmFPbAAAAFQDDqMXHoLP+gxfR63+lgJ977uO45wAAAIBrAigneJFKkkwAWhCGXq4kO5xF3HiyPdth7Y7ac2l8QaC24fdmbjShnrbQei23TALgG/OJGg9lwioRumNFjYzNxFL9lWnibMwKd4Tn9X85xjpt+JByqgZ6n/ENOE4byX+Q0v+EYNqmF+Q3X3q7A/ZqiujN//T8DzL6HeiTCFbxHwAAAIAqvlCxeNHQXCOpGXqX+HhxZJoXJi25sDVR32IBJGvtgoMBwrRGH4PMWikGXVIqgFO89KmjtoA6GOce9HkZMNI0ZVw7qLO/fJEk25lebcOMc3wra1ScwfB0m9cXeiNooEri51CzDgOfQVJ6SR2qED4NzM2Jm/KDO2f5Ta3lUok50g==', variant_level=1)
+1445052279.746567 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445052279.757548 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445052280.990937 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052281.056302 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052281.112298 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445052282.297329 WARNING root: icon_size is deprecated. Use pixel_size instead.

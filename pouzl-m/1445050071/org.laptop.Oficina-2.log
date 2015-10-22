@@ -1,0 +1,59 @@
+1445044664.637625 ERROR root: skip /home/olpc/Activities/Paint.activity/fill/linux32_27 blobs: /home/olpc/Activities/Paint.activity/fill/linux32_27/_fill.so: cannot open shared object file: No such file or directory
+1445044664.640921 ERROR root: use /home/olpc/Activities/Paint.activity/fill/armv7l_27 blobs
+1445044664.641684 ERROR root: Found fill binaries.
+
+(sugar-activity:4240): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:4240): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:4240): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:4240): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:4240): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:4240): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:4240): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:4240): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:4240): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445044665.753683 ERROR root: Setting dpi to: 200.000000
+1445044665.841055 ERROR root: exception 'state'
+1445044666.132620 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044666.185141 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044666.210654 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044666.314352 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044666.315634 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044666.316580 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044666.340079 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044666.341330 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044666.342337 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044666.356863 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.521292 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.530020 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.541128 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.550040 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.558462 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.568381 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.576987 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.586844 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.595389 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.605246 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.613272 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044666.622366 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044667.498587 WARNING root: No Gtk.AccelGroup in the top level window.
+
+(sugar-activity:4240): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:4240): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:4240): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:4240): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+1445044687.129660 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044687.170340 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044687.171622 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044687.172598 WARNING root: No Gtk.AccelGroup in the top level window.
+Exited with status 0, pid 4240 data (None, <open file '<fdopen>', mode 'w' at 0x14c8860>, '51b34adeafe495fcccb95d33463ddce67969780c')

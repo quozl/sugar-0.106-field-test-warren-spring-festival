@@ -1,0 +1,3 @@
+1445036301.386101 WARNING org.laptop.sugar.DataStore: Rebuilding index in /tmp/sugar-datastore-index-8UgflE
+1445036301.434013 WARNING org.laptop.sugar.DataStore: Attempting to move tempfs index to disk
+1445036315.041557 WARNING root: Unknown term: dbus.String(u'mountpoints')=dbus.Array([dbus.String(u'/')], signature=dbus.Signature('s'), variant_level=1)

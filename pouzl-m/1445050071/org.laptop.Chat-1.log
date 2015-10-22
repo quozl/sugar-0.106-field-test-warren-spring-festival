@@ -1,0 +1,28 @@
+
+(sugar-activity:2113): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:2113): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:2113): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:2113): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:2113): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:2113): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:2113): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:2113): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:2113): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445040129.172841 WARNING root: No Gtk.AccelGroup in the top level window.
+1445042544.609967 ERROR dbus.connection: Exception in handler for D-Bus signal:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/dbus/connection.py", line 230, in maybe_handle_message
+    self._handler(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/sugar3/presence/connectionmanager.py", line 91, in __status_changed_cb
+    self._connections_per_account[account_path].connected = False
+KeyError: dbus.ObjectPath('/org/freedesktop/Telepathy/Account/salut/local_xmpp/account0')
+1445043482.909170 WARNING root: No Gtk.AccelGroup in the top level window.
+Exited with status 0, pid 2113 data (None, <open file '<fdopen>', mode 'w' at 0xf822e0>, '7612b54aee5dc431b78c9c2af67a46cc6be6fc81')

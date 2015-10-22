@@ -1,0 +1,31 @@
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+** Message: pygobject_register_sinkfunc is deprecated (GstObject)
+/usr/bin/espeak
+1445040923.582418 WARNING root: KeepButton has been deprecated since Sugar 0.94 and should not be used in newly written code.
+1445040923.594015 WARNING root: No gtk.AccelGroup in the top level window.
+1445040923.619039 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:117: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.props.palette.add(self.page_widget)
+1445040923.684377 ERROR root: <voice.Voice instance at 0x9c1828>
+1445040924.015462 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:194: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.__vbox.pack_start(toolbar_box, False)
+1445040924.027181 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:45: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.parent.owner.pack_start(self.page_widget)
+1445040924.035543 WARNING root: No gtk.AccelGroup in the top level window.
+/home/olpc/Activities/Speak.activity/activity.py:445: PangoWarning: pango_layout_get_cursor_pos: assertion `index >= 0 && index <= layout->length' failed
+  pos = layout.get_cursor_pos(index)
+1445041103.898794 ERROR root: set_voice to current voice English (USA)
+1445041113.414907 ERROR root: set_voice <voice.Voice instance at 0x9c1738>
+1445041122.063863 ERROR root: set_voice to current voice English (USA)
+1445041146.913015 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:108: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  box.pack_start(self.page_widget)
+1445041149.777578 ERROR root: set_voice <voice.Voice instance at 0x9c1738>
+1445041153.900350 WARNING root: No gtk.AccelGroup in the top level window.
+1445041192.866425 WARNING root: No gtk.AccelGroup in the top level window.
+1445041192.871673 WARNING root: No gtk.AccelGroup in the top level window.
+Best voice for LANG en_US.UTF-8 seems to be en-us English (USA)
+Loading brain from bot/alice.brn... done (40564 categories in 8.03 seconds)
+Exited with status 0, pid 2101 data (None, <open file '<fdopen>', mode 'w' at 0x12b8910>, 'a646d1d25bbdae368a9027fb0d48d2584351edc2')

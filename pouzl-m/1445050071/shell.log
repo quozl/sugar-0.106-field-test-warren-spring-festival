@@ -1,0 +1,348 @@
+
+(main.py:543): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(main.py:543): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(main.py:543): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(main.py:543): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(main.py:543): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(main.py:543): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(main.py:543): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(main.py:543): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(main.py:543): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445036795.484703 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036795.536369 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036798.705619 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445036798.746269 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445036798.786491 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445036799.047691 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445036799.099571 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445036799.149284 WARNING root: icon_size is deprecated. Use pixel_size instead.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x40005f (main.py)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+1445036801.581199 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036801.611564 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036801.640373 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036801.669639 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036804.436454 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445036804.515281 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:543): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:543): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+1445037467.510833 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445037468.894569 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445037468.941593 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445037468.987458 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445037628.474189 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445037629.882760 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445037629.953128 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445037630.016417 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445037950.538445 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445037951.885781 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445037951.942753 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445037951.988801 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038111.492191 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445038112.939488 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038112.997285 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038113.044553 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038273.511077 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445038274.895058 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038274.941716 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038274.990479 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038675.540795 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445038677.365705 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038677.407635 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038677.454600 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038678.742791 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039079.581315 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445039080.917730 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039080.985322 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039081.045712 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039240.522397 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445039241.966769 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039242.023711 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039242.091029 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039243.364344 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039804.703680 ERROR root: Error getting the device state: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445039804.705663 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445039805.996002 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039806.074092 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039806.130577 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039885.550651 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445039886.961734 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039887.038297 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039887.096521 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445040055.570147 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445040056.911077 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445040056.974611 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445040057.029111 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445040092.168020 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445040114.107076 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445040210.241903 ERROR root: Cannot update the palette position.
+1445040449.221395 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445040454.253042 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445040478.237875 ERROR root: Cannot update the palette position.
+1445040602.555593 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445040716.575948 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445040716.581075 ERROR root: Model for activity id 2b3240400d7404cd4094ec6cc938acdc775a3251 does not exist.
+1445040989.705495 ERROR root: PaletteWindowWidget popup get_visible True
+1445041034.699819 ERROR root: Cannot update the palette position.
+1445041517.176351 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445041691.281728 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445041864.823263 ERROR root: Cannot update the palette position.
+
+(main.py:543): Gtk-CRITICAL **: gtk_container_remove: assertion `gtk_widget_get_parent (widget) == GTK_WIDGET (container) || GTK_IS_ASSISTANT (container)' failed
+1445041887.888174 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445042544.804280 ERROR dbus.connection: Exception in handler for D-Bus signal:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/dbus/connection.py", line 230, in maybe_handle_message
+    self._handler(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/jarabe/model/neighborhood.py", line 592, in __members_changed_cb
+    self._add_buddy_handles(added)
+  File "/usr/lib/python2.7/site-packages/jarabe/model/neighborhood.py", line 604, in _add_buddy_handles
+    self._connection[CONNECTION_INTERFACE_CONTACTS].GetContactAttributes(
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/dbus/connection.py", line 607, in msg_reply_handler
+    *message.get_args_list()))
+  File "/usr/lib/python2.7/site-packages/jarabe/model/neighborhood.py", line 222, in __error_handler_cb
+    error))
+RuntimeError: Error when calling Contacts.GetContactAttributes: org.freedesktop.DBus.Error.UnknownMethod: Method "GetContactAttributes" with signature "auasb" on interface "org.freedesktop.Telepathy.Connection.Interface.Contacts" doesn't exist
+
+1445042545.243381 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445042546.478800 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445042546.542580 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445042546.590674 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445043456.571308 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445043457.947209 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445043458.026366 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445043458.078335 WARNING root: icon_size is deprecated. Use pixel_size instead.
+/usr/lib/python2.7/site-packages/jarabe/main.py:418: Warning: g_object_set_property: assertion `G_IS_VALUE (value)' failed
+  Gtk.main()
+/usr/lib/python2.7/site-packages/jarabe/main.py:418: Warning: g_value_unset: assertion `G_IS_VALUE (value)' failed
+  Gtk.main()
+1445043476.344137 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14a4670>]
+1445043476.347159 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xf60be8>]
+1445043476.374014 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14a4670>]
+1445043476.388754 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xf60be8>]
+1445043476.825796 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1685940>]
+1445043476.828970 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x16859e0>]
+1445043476.850424 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1685940>]
+1445043476.857809 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x16859e0>]
+1445043477.047537 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x16858c8>]
+1445043477.050803 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1685af8>]
+1445043477.295492 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1685b70>]
+1445043477.298453 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1685260>]
+1445043477.334799 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1685b70>]
+1445043477.342276 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1685260>]
+1445043478.305624 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1046df0>]
+1445043478.308615 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14a8300>]
+1445043478.343466 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1046df0>]
+1445043478.350882 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14a8300>]
+1445043479.125113 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x16859e0>]
+1445043479.128378 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14a8c60>]
+1445043479.479636 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14a82d8>]
+1445043479.482687 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1687378>]
+1445043479.503775 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14a82d8>]
+1445043479.513724 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1687378>]
+1445043480.358237 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14ac0a8>]
+1445043480.361594 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14acfd0>]
+1445043480.628561 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14a81e8>]
+1445043480.631583 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1677f80>]
+1445043480.667960 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14a81e8>]
+1445043480.675467 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1677f80>]
+1445043483.327383 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1685260>]
+1445043483.331442 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1670788>]
+1445043483.381583 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1685260>]
+1445043483.389548 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1670788>]
+1445043484.117606 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677120>]
+1445043484.120840 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1677440>]
+1445043484.396170 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677508>]
+1445043484.399222 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1677580>]
+1445043484.420096 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677508>]
+1445043484.427481 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1677580>]
+1445043485.002646 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677120>]
+1445043485.005759 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd0a8>]
+1445043485.047598 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677120>]
+1445043485.079306 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd0a8>]
+1445043491.134665 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677378>]
+1445043491.137717 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1677530>]
+1445043491.178091 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677378>]
+1445043491.186972 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1677530>]
+1445043491.918661 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14a43c8>]
+1445043491.921896 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1677490>]
+1445043492.156790 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677f80>]
+1445043492.161124 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd1c0>]
+1445043492.197134 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677f80>]
+1445043492.205862 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd1c0>]
+1445043492.921896 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd0a8>]
+1445043492.924887 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd260>]
+1445043492.961203 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd0a8>]
+1445043492.969778 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd260>]
+1445043494.008871 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677530>]
+1445043494.011954 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd288>]
+1445043494.046713 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677530>]
+1445043494.054221 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd288>]
+1445043495.103842 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd0a8>]
+1445043495.106863 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd238>]
+1445043495.140860 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd0a8>]
+1445043495.148337 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd238>]
+1445043496.084738 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd2d8>]
+1445043496.087912 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd1c0>]
+1445043496.340109 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd2d8>]
+1445043496.347586 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd1c0>]
+1445043496.825796 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd350>]
+1445043496.828970 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd260>]
+1445043496.868216 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd350>]
+1445043496.877707 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd260>]
+1445043497.812765 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd3c8>]
+1445043497.818228 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd300>]
+1445043497.861502 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd3c8>]
+1445043497.874197 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd300>]
+1445043511.223349 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1931918>]
+1445043511.226370 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1931940>]
+1445043511.311819 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1931918>]
+1445043511.324393 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1931940>]
+1445043512.799124 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1a40468>]
+1445043512.802450 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a40490>]
+1445043512.826376 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1a40468>]
+1445043512.835074 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a40490>]
+1445043513.577963 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd2b0>]
+1445043513.581076 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1931e90>]
+1445043513.617819 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd2b0>]
+1445043513.625571 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1931e90>]
+1445043514.580191 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1a40418>]
+1445043514.583212 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a403f0>]
+1445043514.624258 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1a40418>]
+1445043514.628287 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a403f0>]
+1445043514.654990 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1a40418>]
+1445043514.662802 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a403f0>]
+1445043515.337546 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1a40418>]
+1445043515.341513 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a403f0>]
+1445043515.378073 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1a40418>]
+1445043515.387167 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a403f0>]
+1445043516.528189 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1931f58>]
+1445043516.531546 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a43238>]
+1445043516.602225 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1931f58>]
+1445043516.609854 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a43238>]
+1445043517.184256 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1a437d8>]
+1445043517.187308 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a43800>]
+1445043517.215933 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1a437d8>]
+1445043517.223410 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a43800>]
+/usr/lib/python2.7/site-packages/jarabe/journal/listview.py:330: Warning: g_object_set_property: assertion `G_IS_VALUE (value)' failed
+  self.get_child().size_allocate(allocation)
+/usr/lib/python2.7/site-packages/jarabe/journal/listview.py:330: Warning: g_value_unset: assertion `G_IS_VALUE (value)' failed
+  self.get_child().size_allocate(allocation)
+1445043523.336996 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677378>]
+1445043523.340048 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1685b70>]
+1445043523.374869 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x1677378>]
+1445043523.383536 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1685b70>]
+1445043523.957999 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd350>]
+1445043523.961264 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd300>]
+1445043524.141257 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd850>]
+1445043524.144308 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd170>]
+1445043524.181204 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd850>]
+1445043524.191122 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd170>]
+1445043524.958548 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd0f8>]
+1445043524.961630 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd210>]
+1445043525.059286 ERROR root: __buddies_set_data_cb [u'Sierra', <sugar3.graphics.xocolor.XoColor instance at 0x14bd0f8>]
+1445043525.066855 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x14bd210>]
+1445044450.484793 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044496.411429 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445044641.539328 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/favoritesview.py", line 646, in __active_activity_changed_cb
+    self._update()
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/favoritesview.py", line 625, in _update
+    self.get_window().set_cursor(None)
+AttributeError: 'NoneType' object has no attribute 'set_cursor'
+1445044762.564291 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445044881.904562 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445044980.494894 ERROR root: Cannot update the palette position.
+1445045030.557547 ERROR dbus.proxies: Introspect error on :1.68:/org/laptop/Activity/9ec6f282d1a38589a585cc4b6f032bd55449c834: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445045055.561026 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445045333.767721 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/model/neighborhood.py", line 986, in __activity_updated_cb
+    bundle = registry.get_bundle(properties['type'])
+KeyError: 'type'
+1445045530.528281 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445045770.491995 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445047120.310110 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/model/neighborhood.py", line 986, in __activity_updated_cb
+    bundle = registry.get_bundle(properties['type'])
+KeyError: 'type'
+1445047152.149588 ERROR dbus.proxies: Introspect error on :1.68:/org/laptop/Activity/9ec6f282d1a38589a585cc4b6f032bd55449c834: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445047177.152701 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445047177.153982 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445047810.530508 WARNING root: icon_size is deprecated. Use pixel_size instead.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1800070 (sugar-acti)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+1445048530.494864 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445048969.751059 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+1445049010.519827 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445049039.275534 ERROR dbus.proxies: Introspect error on :1.68:/org/laptop/Activity/9ec6f282d1a38589a585cc4b6f032bd55449c834: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445049064.278036 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445049130.495810 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445049137.465079 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1445049610.525839 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445049844.752035 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1d09238>]
+1445049845.168967 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1d09288>]
+1445049845.195364 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1d09288>]
+1445049845.816946 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a792b0>]
+1445049845.840170 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a792b0>]
+1445049846.643301 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1d09328>]
+1445049846.660910 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1d09328>]
+1445049847.543051 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a79350>]
+1445049847.564688 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a79350>]
+1445049848.996970 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1d09198>]
+1445049849.020193 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1d09198>]
+1445049850.758841 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1d092d8>]
+1445049850.783774 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1d092d8>]
+1445049852.144675 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x149e6c0>]
+1445049852.166647 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x149e6c0>]
+1445049852.723898 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x12a2f58>]
+1445049852.747092 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x12a2f58>]
+1445049855.196310 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x12a2e90>]
+1445049855.218283 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x12a2e90>]
+1445049855.735251 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x149eb20>]
+1445049855.757223 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x149eb20>]
+1445049857.198263 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xdbbad0>]
+1445049857.234732 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0xdbbad0>]
+1445049857.713522 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x149ed78>]
+1445049857.954916 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a65418>]
+1445049857.991629 ERROR root: __buddies_set_data_cb [u'Oscar', <sugar3.graphics.xocolor.XoColor instance at 0x1a65418>]
+1445049863.197134 ERROR root: PaletteWindowWidget popup get_visible True
+1445049864.859152 ERROR root: No activities are running
+1445049864.961569 ERROR root: Launcher was not registered for None
+1445049970.482046 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:543): Gtk-CRITICAL **: gtk_container_remove: assertion `gtk_widget_get_parent (widget) == GTK_WIDGET (container) || GTK_IS_ASSISTANT (container)' failed
+1445049976.584341 ERROR root: Launcher was not registered for None
+
+(main.py:543): Gdk-WARNING **: main.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Window manager warning: Fatal IO error 11 (Resource temporarily unavailable) on display ':0'.

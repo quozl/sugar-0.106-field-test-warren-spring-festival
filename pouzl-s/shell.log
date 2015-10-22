@@ -1,0 +1,47 @@
+
+(main.py:542): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(main.py:542): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(main.py:542): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(main.py:542): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(main.py:542): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(main.py:542): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(main.py:542): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(main.py:542): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(main.py:542): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445493634.850273 WARNING root: No Gtk.AccelGroup in the top level window.
+1445493634.902611 WARNING root: No Gtk.AccelGroup in the top level window.
+1445493637.898674 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445493637.941276 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445493637.983147 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445493638.210533 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445493638.266350 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445493638.313438 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445493638.366447 WARNING root: icon_size is deprecated. Use pixel_size instead.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x40005f (main.py)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+1445493640.743278 WARNING root: No Gtk.AccelGroup in the top level window.
+1445493640.772942 WARNING root: No Gtk.AccelGroup in the top level window.
+1445493640.801384 WARNING root: No Gtk.AccelGroup in the top level window.
+1445493640.829765 WARNING root: No Gtk.AccelGroup in the top level window.
+1445493643.537224 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445493643.614921 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:542): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:542): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/dbus/connection.py", line 604, in msg_reply_handler
+    reply_handler(*message.get_args_list(**get_args_opts))
+  File "/usr/lib/python2.7/site-packages/jarabe/model/neighborhood.py", line 338, in __get_self_handle_cb
+    connection = self._connection[CONNECTION_INTERFACE_ALIASING]
+  File "/usr/lib/python2.7/site-packages/telepathy/client/interfacefactory.py", line 74, in __getitem__
+    raise KeyError(name)
+KeyError: 'org.freedesktop.Telepathy.Connection.Interface.Aliasing'

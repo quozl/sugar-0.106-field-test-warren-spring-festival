@@ -1,0 +1,59 @@
+
+(main.py:607): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(main.py:607): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(main.py:607): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(main.py:607): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(main.py:607): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(main.py:607): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(main.py:607): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(main.py:607): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(main.py:607): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/intro/window.py", line 445, in __key_press_cb
+    self._intro_box.next()
+  File "/usr/lib/python2.7/site-packages/jarabe/intro/window.py", line 389, in next
+    self._setup_page()
+  File "/usr/lib/python2.7/site-packages/jarabe/intro/window.py", line 328, in _setup_page
+    setup_methods[self._page](self)
+KeyError: 4
+1444987542.818135 WARNING root: No Gtk.AccelGroup in the top level window.
+1444987542.870687 WARNING root: No Gtk.AccelGroup in the top level window.
+1444987543.525930 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444987543.572286 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444987543.625234 WARNING root: icon_size is deprecated. Use pixel_size instead.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/model/neighborhood.py", line 886, in __nick_changed_cb
+    self._server_account.object_path)
+AttributeError: 'NoneType' object has no attribute 'object_path'
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/model/neighborhood.py", line 865, in __jabber_server_changed_cb
+    self._server_account.object_path)
+AttributeError: 'NoneType' object has no attribute 'object_path'
+1444987544.093251 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444987544.175923 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444987544.217794 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444987545.641103 WARNING root: No Gtk.AccelGroup in the top level window.
+1444987545.671071 WARNING root: No Gtk.AccelGroup in the top level window.
+1444987545.700002 WARNING root: No Gtk.AccelGroup in the top level window.
+1444987545.728597 WARNING root: No Gtk.AccelGroup in the top level window.
+1444987548.569753 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1444987548.648030 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:607): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:607): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:607): Gdk-WARNING **: main.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+Window manager warning: Fatal IO error 11 (Resource temporarily unavailable) on display ':0'.

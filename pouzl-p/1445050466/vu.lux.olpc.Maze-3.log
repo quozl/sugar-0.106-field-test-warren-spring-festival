@@ -1,0 +1,53 @@
+
+(sugar-activity:6084): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:6084): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:6084): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:6084): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:6084): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:6084): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:6084): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:6084): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:6084): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445045042.667929 WARNING root: No Gtk.AccelGroup in the top level window.
+1445045088.763449 ERROR root: Error handling message: move:19,5,1,0
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x4fe1e8>)
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Maze.activity/game.py", line 447, in player_walk
+    newposition = player.animate(self.maze, change_direction)
+  File "/home/olpc/Activities/Maze.activity/player.py", line 88, in animate
+    if maze.map[self.position[0]][self.position[1]] == maze.GOAL:
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Maze.activity/game.py", line 447, in player_walk
+    newposition = player.animate(self.maze, change_direction)
+  File "/home/olpc/Activities/Maze.activity/player.py", line 88, in animate
+    if maze.map[self.position[0]][self.position[1]] == maze.GOAL:
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/olpc/Activities/Maze.activity/game.py", line 447, in player_walk
+    newposition = player.animate(self.maze, change_direction)
+  File "/home/olpc/Activities/Maze.activity/player.py", line 88, in animate
+    if maze.map[self.position[0]][self.position[1]] == maze.GOAL:
+IndexError: list index out of range
+1445045088.827689 ERROR root: Error handling message: move:19,5,1,0
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x4fe170>)
+1445045088.901907 ERROR root: Error handling message: move:19,5,1,0
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x4fe350>)
+1445045088.987601 ERROR root: Error handling message: move:19,5,1,0
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x4fe378>)
+1445045089.042288 ERROR root: Error handling message: move:19,5,1,0
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x4fe3f0>)
+1445045089.117972 ERROR root: Error handling message: move:19,5,1,0
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x4fe2d8>)
+1445045089.185965 ERROR root: Error handling message: move:19,5,1,0
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x4fe3f0>)
+1445045271.495688 WARNING root: No Gtk.AccelGroup in the top level window.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.

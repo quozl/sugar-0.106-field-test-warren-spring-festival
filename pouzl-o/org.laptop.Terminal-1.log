@@ -1,0 +1,51 @@
+
+(sugar-activity:908): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:908): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:908): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:908): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:908): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:908): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:908): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:908): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:908): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445236801.617207 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.667377 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.692585 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.695759 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.697010 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.775654 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.800434 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.823658 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.961994 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.963428 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.988880 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.990070 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.990925 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.992146 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236801.993092 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.009449 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.010700 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.011555 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.012531 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.013386 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.028095 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.029224 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.030201 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.044422 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.045673 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236802.046680 WARNING root: No Gtk.AccelGroup in the top level window.
+1445236883.818256 ERROR dbus.connection: Exception in handler for D-Bus signal:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/dbus/connection.py", line 230, in maybe_handle_message
+    self._handler(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/sugar3/presence/connectionmanager.py", line 91, in __status_changed_cb
+    self._connections_per_account[account_path].connected = False
+KeyError: dbus.ObjectPath('/org/freedesktop/Telepathy/Account/salut/local_xmpp/account0')

@@ -1,0 +1,17 @@
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+1445044897.169546 WARNING root: KeepButton has been deprecated since Sugar 0.94 and should not be used in newly written code.
+1445044897.180594 WARNING root: No gtk.AccelGroup in the top level window.
+1445044897.196127 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:117: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.props.palette.add(self.page_widget)
+1445044897.268545 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:194: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.__vbox.pack_start(toolbar_box, False)
+1445044897.278891 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:45: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.parent.owner.pack_start(self.page_widget)
+1445044897.289206 WARNING root: No gtk.AccelGroup in the top level window.
+1445044953.284872 WARNING root: No gtk.AccelGroup in the top level window.
+1445044953.308523 WARNING root: No gtk.AccelGroup in the top level window.
+Launched from home.
+Exited with status 0, pid 5972 data (None, <open file '<fdopen>', mode 'w' at 0xf6c808>, '1e1b8cd515389a1cc68e7a27e539388a8a125515')

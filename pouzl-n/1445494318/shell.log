@@ -1,0 +1,139 @@
+
+(main.py:535): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(main.py:535): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(main.py:535): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(main.py:535): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(main.py:535): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(main.py:535): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(main.py:535): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(main.py:535): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(main.py:535): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445036304.720726 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036304.772880 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036307.805565 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445036307.846214 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445036307.886558 WARNING root: icon_size is deprecated. Use pixel_size instead.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x40005f (main.py)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+1445036310.244835 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036310.275230 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036310.303978 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036310.333397 WARNING root: No Gtk.AccelGroup in the top level window.
+1445036313.107414 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445036313.186729 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(main.py:535): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+
+(main.py:535): Gtk-CRITICAL **: gtk_widget_set_size_request: assertion `width >= -1' failed
+1445036320.920189 ERROR root: PaletteWindowWidget popup get_visible True
+1445036610.199307 ERROR root: Cannot update the palette position.
+1445038944.634988 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445038945.911994 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038945.975100 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038946.028624 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038970.318411 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039153.529806 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445039159.251363 WARNING root: no data for selection target MULTIPLE.
+1445039159.265066 WARNING root: no data for selection target application/x-goffice-graph.
+1445039159.267629 WARNING root: no data for selection target image/png.
+1445039159.270193 WARNING root: no data for selection target image/jpeg.
+1445039159.272695 WARNING root: no data for selection target image/tiff.
+1445039159.275167 WARNING root: no data for selection target image/gif.
+1445039159.278585 WARNING root: no data for selection target image/bmp.
+1445039159.281271 WARNING root: no data for selection target image/x-xbitmap.
+1445039159.283834 WARNING root: no data for selection target image/x-xpixmap.
+1445039159.286306 WARNING root: no data for selection target image/x-portable-anymap.
+1445039159.288808 WARNING root: no data for selection target image/x-portable-pixmap.
+1445039159.291433 WARNING root: no data for selection target image/x-portable-graymap.
+1445039159.293966 WARNING root: no data for selection target image/vnd.wap.wbmp.
+1445039159.296468 WARNING root: no data for selection target image/x-cmu-raster.
+1445039159.298971 WARNING root: no data for selection target image/x-wmf.
+1445039159.301717 WARNING root: no data for selection target image/svg.
+1445039159.304281 WARNING root: no data for selection target image/svg+xml.
+1445039159.360128 WARNING root: no data for selection target NULL.
+1445039389.119191 WARNING root: no data for selection target MULTIPLE.
+1445039389.129140 WARNING root: no data for selection target application/x-goffice-graph.
+1445039389.131765 WARNING root: no data for selection target image/png.
+1445039389.134206 WARNING root: no data for selection target image/jpeg.
+1445039389.136648 WARNING root: no data for selection target image/tiff.
+1445039389.139089 WARNING root: no data for selection target image/gif.
+1445039389.141652 WARNING root: no data for selection target image/bmp.
+1445039389.144124 WARNING root: no data for selection target image/x-xbitmap.
+1445039389.146596 WARNING root: no data for selection target image/x-xpixmap.
+1445039389.149038 WARNING root: no data for selection target image/x-portable-anymap.
+1445039389.151662 WARNING root: no data for selection target image/x-portable-pixmap.
+1445039389.156026 WARNING root: no data for selection target image/x-portable-graymap.
+1445039389.158651 WARNING root: no data for selection target image/vnd.wap.wbmp.
+1445039389.161214 WARNING root: no data for selection target image/x-cmu-raster.
+1445039389.163808 WARNING root: no data for selection target image/x-wmf.
+1445039389.166311 WARNING root: no data for selection target image/svg.
+1445039389.168813 WARNING root: no data for selection target image/svg+xml.
+1445039389.220479 WARNING root: no data for selection target NULL.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/meshbox.py", line 404, in _buddy_removed_cb
+    self._remove_buddy(buddy_model)
+  File "/usr/lib/python2.7/site-packages/jarabe/desktop/meshbox.py", line 430, in _remove_buddy
+    icon = self._buddies[buddy_model.props.key]
+KeyError: dbus.ByteArray('AAAAB3NzaC1kc3MAAACBAIFdvEr2k/61fkx9E2XfYIha/GWtQxdggguXeamcCXRe+DPTOwYb9Mdavw57o/6ukfB3g99gLVmi0tGqQwt4m55qkPDy6O0KvFxlxUGy+zB+JfULmbbsJmwkzydDloj1kb226jDRr+nyCfo6eMANKYa4JQGbgNBcIVYxi2Rfk+4RAAAAFQCRpj1O5SoJTjrOG6+eugev31wRHQAAAIBLGwy3EeR6LWSZURg1SbwA9QNDn8oTHVqCgYr90NqW07BxfbRb3Fvu/BP28iUm5PhFTnoMLVp32gXqs6cIs8zpo6YplO0dTbjbyJ9/rHFTyPftpeLpanuKQjR8A+fHsErV1cU8+akAnGgTzLRFHjs3Rs7nJxzYOSyhfzCppX0D6gAAAIBqQNE9rQC2X1sMiNFMeLzQdjalwhE9OKH8IpM3mQBF+5mfo/jqwlPxE77AN/nEylQAhSO0/Rqx5SpatEnnwYLl18SUPvd3nhcoJcaE/WRAWXWPcbaPZ9BvOGhh4sA0UaTgfK3+3WVxG265yW1Zwzuzq7zI11OfUqQPsYoNe5/f9g==', variant_level=1)
+1445040710.681780 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445040711.918890 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445040711.978120 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445040712.024657 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445042304.464608 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445042305.915167 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445042305.984589 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445042306.035764 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445042893.524837 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445042894.936558 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445042894.988709 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445042895.042355 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445043839.550315 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445043840.907600 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445043840.976625 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445043841.033995 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044242.528804 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445044244.296799 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044244.370374 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044244.432689 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445047701.535913 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445047702.900794 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445047702.956088 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445047703.005096 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445051079.597823 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445051081.383008 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445051081.457224 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445051081.516060 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054540.123842 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445054541.295578 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054541.337020 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445054541.394635 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055865.688155 ERROR root: Error getting the active access point: org.freedesktop.DBus.Error.UnknownMethod: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+
+1445055866.946140 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055867.040128 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055867.095728 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445055868.254604 ERROR root: set_active() failed: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+
+(main.py:535): Gdk-WARNING **: main.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+Window manager warning: Fatal IO error 11 (Resource temporarily unavailable) on display ':0'.

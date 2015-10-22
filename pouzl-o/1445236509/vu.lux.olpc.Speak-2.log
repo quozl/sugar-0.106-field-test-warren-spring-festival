@@ -1,0 +1,20 @@
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+** Message: pygobject_register_sinkfunc is deprecated (GstObject)
+/usr/bin/espeak
+1445055560.200458 WARNING root: KeepButton has been deprecated since Sugar 0.94 and should not be used in newly written code.
+1445055560.212086 WARNING root: No gtk.AccelGroup in the top level window.
+1445055560.227588 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:117: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.props.palette.add(self.page_widget)
+1445055560.291950 ERROR root: <voice.Voice instance at 0x8a32d8>
+1445055560.619526 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:194: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.__vbox.pack_start(toolbar_box, False)
+1445055560.629902 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:45: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.parent.owner.pack_start(self.page_widget)
+1445055560.638202 WARNING root: No gtk.AccelGroup in the top level window.
+1445055585.953083 WARNING root: No gtk.AccelGroup in the top level window.
+1445055585.979908 WARNING root: No gtk.AccelGroup in the top level window.
+Best voice for LANG en_US.UTF-8 seems to be en-us English (USA)
+Exited with status 0, pid 1757 data (None, <open file '<fdopen>', mode 'w' at 0x10796a8>, dbus.ByteArray('576902a2ba42565666b18e3f1c920ff22b23ee03', variant_level=1))

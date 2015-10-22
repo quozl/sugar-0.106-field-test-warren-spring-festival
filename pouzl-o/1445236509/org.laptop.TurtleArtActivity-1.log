@@ -1,0 +1,57 @@
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+** Message: pygobject_register_sinkfunc is deprecated (GstObject)
+1445053082.980976 WARNING root: KeepButton has been deprecated since Sugar 0.94 and should not be used in newly written code.
+1445053082.992389 WARNING root: No gtk.AccelGroup in the top level window.
+1445053083.009693 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:117: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.props.palette.add(self.page_widget)
+/home/olpc/Activities/TurtleBlocks.activity/TurtleArtActivity.py:785: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.toolbox.toolbar.insert(self.activity_toolbar_button, -1)
+1445053083.175159 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:45: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.parent.owner.pack_start(self.page_widget)
+1445053083.188068 WARNING root: No gtk.AccelGroup in the top level window.
+/home/olpc/Activities/TurtleBlocks.activity/TurtleArtActivity.py:787: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.toolbox.toolbar.insert(self.edit_toolbar_button, -1)
+/home/olpc/Activities/TurtleBlocks.activity/TurtleArtActivity.py:789: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.toolbox.toolbar.insert(self.view_toolbar_button, -1)
+/home/olpc/Activities/TurtleBlocks.activity/TurtleArtActivity.py:791: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.toolbox.toolbar.insert(self.palette_toolbar_button, -1)
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:194: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.__vbox.pack_start(toolbar_box, False)
+1445053083.221576 WARNING root: No gtk.AccelGroup in the top level window.
+1445053083.232899 WARNING root: No gtk.AccelGroup in the top level window.
+1445053083.264179 WARNING root: No gtk.AccelGroup in the top level window.
+/home/olpc/Activities/TurtleBlocks.activity/TurtleArtActivity.py:1703: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  toolbar.insert(button, -1)
+1445053083.278889 WARNING root: No gtk.AccelGroup in the top level window.
+1445053083.330005 WARNING root: No gtk.AccelGroup in the top level window.
+1445053083.591266 WARNING root: No gtk.AccelGroup in the top level window.
+1445053083.592426 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:108: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  box.pack_start(self.page_widget)
+1445053083.629810 WARNING root: No gtk.AccelGroup in the top level window.
+1445053083.630787 WARNING root: No gtk.AccelGroup in the top level window.
+1445053084.623829 WARNING root: No gtk.AccelGroup in the top level window.
+1445053084.642444 WARNING root: No gtk.AccelGroup in the top level window.
+1445053084.660877 WARNING root: No gtk.AccelGroup in the top level window.
+1445053084.679554 WARNING root: No gtk.AccelGroup in the top level window.
+1445053084.723560 WARNING root: No gtk.AccelGroup in the top level window.
+1445053084.724781 WARNING root: No gtk.AccelGroup in the top level window.
+/home/olpc/Activities/TurtleBlocks.activity/TurtleArtActivity.py:894: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.toolbox.toolbar.insert(self.stop_button, -1)
+1445053088.650959 WARNING root: No gtk.AccelGroup in the top level window.
+1445053088.651935 WARNING root: No gtk.AccelGroup in the top level window.
+/home/olpc/Activities/TurtleBlocks.activity/TurtleArtActivity.py:225: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.toolbox.toolbar.insert(self.stop_button, -1)
+1445053117.923939 WARNING root: No gtk.AccelGroup in the top level window.
+1445053117.928455 WARNING root: No gtk.AccelGroup in the top level window.
+1445053117.929310 WARNING root: No gtk.AccelGroup in the top level window.
+1445053117.930195 WARNING root: No gtk.AccelGroup in the top level window.
+1445053117.931171 WARNING root: No gtk.AccelGroup in the top level window.
+1445053117.931843 WARNING root: No gtk.AccelGroup in the top level window.
+1445053118.000232 WARNING root: No gtk.AccelGroup in the top level window.
+1445053118.042774 WARNING root: No gtk.AccelGroup in the top level window.
+1445053118.043812 WARNING root: No gtk.AccelGroup in the top level window.
+1445053118.145038 WARNING root: No gtk.AccelGroup in the top level window.
+Exited with status 0, pid 1117 data (None, <open file '<fdopen>', mode 'w' at 0x1079390>, 'df00d7fc0b4a25aa2137b64efac050bf6cd35f10')

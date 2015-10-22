@@ -1,0 +1,100 @@
+Unknown option -b
+
+(sugar-activity:2057): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:2057): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:2057): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:2057): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:2057): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:2057): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:2057): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:2057): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:2057): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445038955.271322 ERROR root: Abiword version 2.9
+1445038955.293447 ERROR root: Abiword version 2.9
+1445038955.315328 ERROR root: Abiword version 2.9
+1445038955.337271 ERROR root: Abiword version 2.9
+1445038955.387441 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038955.388815 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038955.413046 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038955.414388 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038955.439199 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038955.711202 ERROR root: Abiword version 2.9
+1445038956.078451 ERROR write-activity: use gst-plugins-espeak
+1445038956.107229 ERROR root: Default voice ['english-us', 'en', 'us']
+1445038956.564260 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038956.587515 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038956.610586 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038956.615438 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445038957.197561 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.248770 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.249929 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.250967 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.251852 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.252889 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.278463 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.279592 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.280630 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.281545 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.282583 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.336111 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.337332 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.338339 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.355398 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.356619 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.357626 WARNING root: No Gtk.AccelGroup in the top level window.
+1445038957.450521 ERROR write-activity: We are creating an activity
+/home/olpc/Activities/Write.activity/toolbar.py:539: Warning: gsignal.c:2499: instance `0x8f49b8' has no handler with id `2385'
+  self.handler_block(self._changed_id)
+/home/olpc/Activities/Write.activity/toolbar.py:541: Warning: gsignal.c:2541: instance `0x8f49b8' has no handler with id `2385'
+  self.handler_unblock(self._changed_id)
+1445038957.877401 ERROR write-activity: Loading keybindings
+1445038957.894247 ERROR root: Setting default font to Sans 12 in new documents
+
+(sugar-activity:2057): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+
+(sugar-activity:2057): Gdk-CRITICAL **: gdk_device_get_source: assertion `GDK_IS_DEVICE (device)' failed
+1445039411.420461 ERROR root: Abiword version 2.9
+1445040710.735555 ERROR dbus.connection: Exception in handler for D-Bus signal:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/dbus/connection.py", line 230, in maybe_handle_message
+    self._handler(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/sugar3/presence/connectionmanager.py", line 91, in __status_changed_cb
+    self._connections_per_account[account_path].connected = False
+KeyError: dbus.ObjectPath('/org/freedesktop/Telepathy/Account/salut/local_xmpp/account0')
+1445040710.743486 ERROR dbus.connection: Exception in handler for D-Bus signal:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/dbus/connection.py", line 230, in maybe_handle_message
+    self._handler(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/sugar3/presence/connectionmanager.py", line 91, in __status_changed_cb
+    self._connections_per_account[account_path].connected = False
+KeyError: dbus.ObjectPath('/org/freedesktop/Telepathy/Account/salut/local_xmpp/account0')
+1445040710.744797 ERROR dbus.connection: Exception in handler for D-Bus signal:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/dbus/connection.py", line 230, in maybe_handle_message
+    self._handler(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/sugar3/presence/connectionmanager.py", line 91, in __status_changed_cb
+    self._connections_per_account[account_path].connected = False
+KeyError: dbus.ObjectPath('/org/freedesktop/Telepathy/Account/salut/local_xmpp/account0')
+1445055867.352125 ERROR root: Abiword version 2.9
+1445055867.504281 WARNING root: No Gtk.AccelGroup in the top level window.
+1445055867.598669 WARNING root: No Gtk.AccelGroup in the top level window.
+1445055867.599829 WARNING root: No Gtk.AccelGroup in the top level window.
+1445055867.600897 WARNING root: No Gtk.AccelGroup in the top level window.
+1445055867.601813 WARNING root: No Gtk.AccelGroup in the top level window.
+1445055867.602820 WARNING root: No Gtk.AccelGroup in the top level window.
+1445055867.760317 WARNING root: No Gtk.AccelGroup in the top level window.
+1445055867.761538 WARNING root: No Gtk.AccelGroup in the top level window.
+1445055867.762576 WARNING root: No Gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar3/activity/activity.py:1013: Warning: gsignal.c:2576: instance `0x44b8f0' has no handler with id `4727'
+  self.destroy()
+/usr/lib/python2.7/site-packages/sugar3/activity/activity.py:1013: Warning: gsignal.c:2576: instance `0xa64d60' has no handler with id `4728'
+  self.destroy()
+Exited with status 0, pid 2057 data (None, <open file '<fdopen>', mode 'w' at 0xf6b2e0>, '818f29eb4410f9985d85b7247819fdd5f69e33cd')

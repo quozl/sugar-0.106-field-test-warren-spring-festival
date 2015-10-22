@@ -1,0 +1,111 @@
+
+(sugar-activity:844): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:844): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:844): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:844): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:844): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:844): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:844): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:844): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:844): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+
+(sugar-activity:844): Gtk-CRITICAL **: gtk_radio_button_set_group: assertion `!g_slist_find (group, radio_button)' failed
+1445055563.441181 WARNING root: No Gtk.AccelGroup in the top level window.
+Logging disabled on purpose
+0dBFS level = 32768.0
+Csound version 5.13 (float samples) Jul 29 2012
+libsndfile-1.0.25
+UnifiedCSD:  /home/olpc/Activities/MusicKeyboard.activity/common/Resources/tamtamorc.csd
+STARTING FILE
+Creating options
+Creating orchestra
+Creating score
+orchname:  /tmp/csound-l85Sr5.orc
+scorename: /tmp/csound-Olheo3.sco
+rtaudio: ALSA module enabled
+orch compiler:
+	opcode	homeSine	a	kki	
+	opcode	synthGrain	a	aaiiii	
+	opcode	ControlMatrice	i	iikkkk	
+	opcode	SourceMatrice	i	iaaaa	
+	opcode	FxMatrice	i	iaaaa	
+	opcode	controller	k	ii	
+	opcode	source	a	ii	
+	opcode	effects	a	ii	
+	instr	200	
+	instr	5600	
+	instr	5400	
+	instr	5401	
+	instr	5201	
+	instr	5202	
+	instr	5212	
+	instr	6000	
+	instr	5204	
+	instr	5203	
+	instr	5000	
+	instr	5022	
+	instr	5023	
+	instr	5001	5002	5003	5004	5005	5006	5007	5008	5009	5010	
+	instr	5101	5102	5103	5104	5105	5106	5107	5108	5109	5110	
+	instr	5011	5012	5013	5014	5015	5016	5017	5018	5019	5020	
+	instr	5111	5112	5113	5114	5115	5116	5117	5118	5119	5120	
+	instr	5021	
+sorting score ...
+	... done
+Csound version 5.13 (float samples) Jul 29 2012
+displays suppressed
+0dBFS level = 32768.0
+orch now loaded
+audio buffered in 256 sample-frame blocks
+ALSA: -b 256 not allowed on this device; using 341 instead
+writing 1024-byte blks of shorts to dac
+SECTION 1:
+1445055564.172565 ERROR root: Loading instrument images from /home/olpc/Activities/MusicKeyboard.activity/instruments
+1445055564.176441 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/flute.png
+1445055564.199360 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/harmonium.png
+1445055564.207996 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/guit.png
+1445055564.215839 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/trumpet.png
+1445055564.223774 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/rhodes.png
+1445055564.231952 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/banjo.png
+1445055564.239948 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/shenai.png
+1445055564.247516 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/flugel.png
+1445055564.255512 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/clavinet.png
+1445055564.263691 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/mando.png
+1445055564.271717 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/ocarina.png
+1445055564.279133 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/chimes.png
+1445055564.288410 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/saxo.png
+1445055564.296650 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/cello.png
+1445055564.304981 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/violin.png
+1445055564.313129 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/acguit.png
+1445055564.321399 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/harpsichord.png
+1445055564.329822 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/clarinette.png
+1445055564.337330 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/guitshort.png
+1445055564.345417 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/koto.png
+1445055564.353351 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/sitar.png
+1445055564.361316 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/sarangi.png
+1445055564.369770 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/templebell.png
+1445055564.378040 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/saxsoprano.png
+1445055564.385547 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/ukulele.png
+1445055564.393268 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/marimba.png
+1445055564.404896 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/tuba.png
+1445055564.422809 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/au_pipes.png
+1445055564.442188 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/harmonica.png
+1445055564.450123 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/kalimba.png
+1445055564.472522 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/piano.png
+1445055564.480823 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/basse.png
+1445055564.488575 ERROR root: Adding /home/olpc/Activities/MusicKeyboard.activity/instruments/didjeridu.png
+1445055675.593525 WARNING root: No Gtk.AccelGroup in the top level window.
+inactive allocs returned to freespace
+end of score.		   overall amps:  33278.6  33278.6
+	   overall samples out of range:        2        2
+0 errors in performance
+6986 1024-byte soundblks of shorts written to dac
+Exited with status 0, pid 844 data (None, <open file '<fdopen>', mode 'w' at 0xf6c440>, '29cb598798c229ef51e6dacf67982d2ca1c2f531')

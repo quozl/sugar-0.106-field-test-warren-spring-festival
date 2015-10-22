@@ -1,0 +1,31 @@
+
+(sugar-activity:6118): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:6118): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:6118): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:6118): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:6118): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:6118): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:6118): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:6118): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:6118): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445049003.890127 ERROR root: Reading configuration from file get-books.cfg
+1445049004.018088 ERROR root: _SOURCES {'Feedbooks': 'Feedbooks', 'Internet Archive': 'Internet Archive'}
+1445049004.018790 ERROR root: _SOURCES_CONFIG {'Feedbooks': {'summary_field': 'summary', 'blacklist': ['Erotica', 'Romance'], 'query_uri': 'http://www.feedbooks.com/books/search.atom?query=', 'opds_cover': 'http://opds-spec.org/image'}, 'Internet Archive': {'summary_field': None, 'blacklist': [], 'query_uri': 'http://bookserver.archive.org/catalog/opensearch?q=', 'opds_cover': 'http://opds-spec.org/image'}}
+1445049004.021536 ERROR root: languages {'fr': 'French', 'en': 'English', 'de': 'German', 'es': 'Spanish; Castilian'}
+1445049004.022147 ERROR root: catalogs {'juvenile': {'summary_field': 'summary', 'source': 'Feedbooks', 'query_uri': 'http://www.feedbooks.com/books/top?category=FBJUV000000&range=week', 'opds_cover': 'http://opds-spec.org/image', 'name': 'juvenile'}, 'feed books catalog index': {'summary_field': 'summary', 'source': 'Feedbooks', 'query_uri': 'http://www.feedbooks.com/catalog?free=true', 'opds_cover': 'http://opds-spec.org/image', 'name': 'feed books catalog index'}, 'action & adventure': {'summary_field': 'summary', 'source': 'Feedbooks', 'query_uri': 'http://www.feedbooks.com/books/top?category=FBFIC002000&range=week', 'opds_cover': 'http://opds-spec.org/image', 'name': 'action & adventure'}, 'public domain books': {'summary_field': 'summary', 'source': 'Feedbooks', 'query_uri': 'http://www.feedbooks.com/publicdomain/catalog.atom', 'opds_cover': 'http://opds-spec.org/image', 'name': 'public domain books'}, 'science fiction': {'summary_field': 'summary', 'source': 'Feedbooks', 'query_uri': 'http://www.feedbooks.com/books/top.atom?category=FBFIC028000&range=week', 'opds_cover': 'http://opds-spec.org/image', 'name': 'science fiction'}, 'fairy tales, folk tales & mythology': {'summary_field': 'summary', 'source': 'Feedbooks', 'query_uri': 'http://www.feedbooks.com/books/top?category=FBFIC010000&range=week', 'opds_cover': 'http://opds-spec.org/image', 'name': 'fairy tales, folk tales & mythology'}, 'short stories': {'summary_field': 'summary', 'source': 'Feedbooks', 'query_uri': 'http://www.feedbooks.com/books/top?category=FBFIC029000&range=week', 'opds_cover': 'http://opds-spec.org/image', 'name': 'short stories'}, 'most popular': {'summary_field': 'summary', 'source': 'Feedbooks', 'query_uri': 'http://www.feedbooks.com/books/top.atom?range=month', 'opds_cover': 'http://opds-spec.org/image', 'name': 'most popular'}}
+1445049004.419638 WARNING root: No Gtk.AccelGroup in the top level window.
+1445049004.610800 ERROR root: using_powerd: 1
+1445049007.510092 WARNING root: No Gtk.AccelGroup in the top level window.
+Traceback (most recent call last):
+  File "/home/olpc/Activities/GetBooks.activity/GetIABooksActivity.py", line 435, in move_down_catalog
+    self.catalog_listview.get_selection().get_selected()
+AttributeError: 'NoneType' object has no attribute 'get_selected'
+Exited with status 0, pid 6118 data (None, <open file '<fdopen>', mode 'w' at 0x1a52bd0>, 'f3b55daa0eb3eb419f2172a283a873ab90ade6c8')

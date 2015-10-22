@@ -1,0 +1,24 @@
+** Message: pygobject_register_sinkfunc is deprecated (HippoCanvasBox)
+** Message: pygobject_register_sinkfunc is deprecated (GstObject)
+/usr/bin/espeak
+1445052553.887714 WARNING root: KeepButton has been deprecated since Sugar 0.94 and should not be used in newly written code.
+1445052553.899189 WARNING root: No gtk.AccelGroup in the top level window.
+1445052553.914692 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:117: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.props.palette.add(self.page_widget)
+1445052553.989063 ERROR root: <voice.Voice instance at 0x8a32b0>
+1445052554.342792 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/window.py:194: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.__vbox.pack_start(toolbar_box, False)
+1445052554.354297 WARNING root: No gtk.AccelGroup in the top level window.
+/usr/lib/python2.7/site-packages/sugar/graphics/toolbarbox.py:45: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.parent.owner.pack_start(self.page_widget)
+1445052554.362537 WARNING root: No gtk.AccelGroup in the top level window.
+Best voice for LANG en_US.UTF-8 seems to be en-us English (USA)
+/home/olpc/Activities/Speak.activity/activity.py:445: PangoWarning: pango_layout_get_cursor_pos: assertion `index >= 0 && index <= layout->length' failed
+  pos = layout.get_cursor_pos(index)
+/usr/lib/python2.7/site-packages/sugar/datastore/datastore.py:103: UnicodeWarning: Unicode unequal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if key not in self._properties or self._properties[key] != value:
+1445052688.600269 WARNING root: No gtk.AccelGroup in the top level window.
+1445052688.637256 WARNING root: No gtk.AccelGroup in the top level window.
+Exited with status 0, pid 846 data (None, <open file '<fdopen>', mode 'w' at 0xf6dcd8>, dbus.ByteArray('576902a2ba42565666b18e3f1c920ff22b23ee03', variant_level=1))

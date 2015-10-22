@@ -1,0 +1,73 @@
+
+(sugar-activity:5192): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:5192): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:5192): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:5192): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:5192): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:5192): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:5192): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:5192): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:5192): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445041991.808190 WARNING root: No Gtk.AccelGroup in the top level window.
+1445041991.947716 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445041991.974999 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445041992.002404 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(sugar-activity:5192): Gtk-CRITICAL **: gtk_container_remove: assertion `gtk_widget_get_parent (widget) == GTK_WIDGET (container) || GTK_IS_ASSISTANT (container)' failed
+
+(sugar-activity:5192): Gtk-CRITICAL **: gtk_container_remove: assertion `gtk_widget_get_parent (widget) == GTK_WIDGET (container) || GTK_IS_ASSISTANT (container)' failed
+
+(sugar-activity:5192): Gtk-CRITICAL **: gtk_box_pack: assertion `gtk_widget_get_parent (child) == NULL' failed
+
+(sugar-activity:5192): Gtk-CRITICAL **: gtk_box_pack: assertion `gtk_widget_get_parent (child) == NULL' failed
+1445042020.040856 ERROR root: Cannot update the palette position.
+1445042020.626061 ERROR root: update font {'size': '4', 'winsnd': 'win.wav', 'pathimg': '/home/olpc/.sugar/default/org.laptop.Memorize/instance/tmpuIDMKy/images', 'name': 'addition', 'equal_pairs': '0', 'align': '1', 'game_file': '/home/olpc/Activities/Memorize.activity/demos/addition.zip', 'face': '', 'running': 'True', 'face2': '2', 'face1': '1', 'key': 'addition.zip', 'pathsnd': '/home/olpc/.sugar/default/org.laptop.Memorize/instance/tmpuIDMKy/sounds', 'path': '/home/olpc/.sugar/default/org.laptop.Memorize/instance/tmpuIDMKy', 'mode': 'size', 'scoresnd': 'score.wav', 'font_name2': 'Sans', 'font_name1': 'Sans', 'divided': '1'}
+1445042023.194481 ERROR root: creating temp directories model: {'size': '4', 'winsnd': 'win.wav', 'pathimg': '/home/olpc/.sugar/default/org.laptop.Memorize/instance/tmpuIDMKy/images', 'name': 'addition', 'equal_pairs': '0', 'align': '1', 'game_file': '/home/olpc/Activities/Memorize.activity/demos/addition.zip', 'face': '', 'running': 'True', 'face2': '2', 'face1': '1', 'key': 'addition.zip', 'pathsnd': '/home/olpc/.sugar/default/org.laptop.Memorize/instance/tmpuIDMKy/sounds', 'path': '/home/olpc/.sugar/default/org.laptop.Memorize/instance/tmpuIDMKy', 'mode': 'size', 'scoresnd': 'score.wav', 'font_name2': 'Sans', 'font_name1': 'Sans', 'divided': '1'}
+1445042023.196770 ERROR root: saving image a None
+1445042023.197441 ERROR root: saving image b None
+1445042023.198174 ERROR root: saving image a None
+1445042023.198754 ERROR root: saving image b None
+1445042023.199547 ERROR root: saving image a None
+1445042023.200188 ERROR root: saving image b None
+1445042023.200920 ERROR root: saving image a None
+1445042023.201500 ERROR root: saving image b None
+1445042023.202202 ERROR root: saving image a None
+1445042023.202813 ERROR root: saving image b None
+1445042023.203514 ERROR root: saving image a None
+1445042023.204094 ERROR root: saving image b None
+1445042023.204796 ERROR root: saving image a None
+1445042023.205407 ERROR root: saving image b None
+1445042023.206108 ERROR root: saving image a None
+1445042023.206719 ERROR root: saving image b None
+1445042023.207421 ERROR root: saving image a None
+1445042023.208062 ERROR root: saving image b None
+1445042023.208794 ERROR root: saving image a None
+1445042023.209435 ERROR root: saving image b None
+1445042023.210198 ERROR root: saving image a None
+1445042023.210778 ERROR root: saving image b None
+1445042023.211510 ERROR root: saving image a None
+1445042023.212090 ERROR root: saving image b None
+1445042023.212792 ERROR root: saving image a None
+1445042023.213402 ERROR root: saving image b None
+1445042023.214104 ERROR root: saving image a None
+1445042023.214714 ERROR root: saving image b None
+1445042023.215416 ERROR root: saving image a None
+1445042023.215996 ERROR root: saving image b None
+1445042023.216729 ERROR root: saving image a None
+1445042023.217308 ERROR root: saving image b None
+1445042023.218041 ERROR root: saving image a None
+1445042023.218621 ERROR root: saving image b None
+1445042023.219323 ERROR root: saving image a None
+1445042023.219994 ERROR root: saving image b None
+1445042023.236626 ERROR root: <memorize align="1" divided="1" equal_pairs="0" face="" face1="1" face2="2" font_name1="Sans" font_name2="Sans" name="Memorize Activity" scoresnd="score.wav" winsnd="win.wav"><pair achar="6+7" bchar="13" /><pair achar="6+6" bchar="12" /><pair achar="7+8" bchar="15" /><pair achar="7+7" bchar="14" /><pair achar="8+9" bchar="17" /><pair achar="8+8" bchar="16" /><pair achar="10+9" bchar="19" /><pair achar="9+9" bchar="18" /><pair achar="1+2" bchar="3" /><pair achar="1+1" bchar="2" /><pair achar="2+3" bchar="5" /><pair achar="2+2" bchar="4" /><pair achar="3+4" bchar="7" /><pair achar="3+3" bchar="6" /><pair achar="4+5" bchar="9" /><pair achar="4+4" bchar="8" /><pair achar="5+6" bchar="11" /><pair achar="5+5" bchar="10" /></memorize>
+1445042023.416497 WARNING root: No Gtk.AccelGroup in the top level window.
+Best voice for LANG en_US.UTF-8 seems to be en-us English-us
+Exited with status 0, pid 5192 data (None, <open file '<fdopen>', mode 'w' at 0x145e390>, '32678a30ba3854331b202af4552ca45e3b2d3036')

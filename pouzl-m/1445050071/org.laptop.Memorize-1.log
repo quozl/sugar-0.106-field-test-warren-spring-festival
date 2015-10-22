@@ -1,0 +1,33 @@
+
+(sugar-activity:4652): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:177:16: Missing name of pseudo-class
+
+(sugar-activity:4652): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:180:16: Missing name of pseudo-class
+
+(sugar-activity:4652): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:553:32: Missing name of pseudo-class
+
+(sugar-activity:4652): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:563:32: Missing name of pseudo-class
+
+(sugar-activity:4652): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:572:48: Missing name of pseudo-class
+
+(sugar-activity:4652): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:703:7: Missing name of pseudo-class
+
+(sugar-activity:4652): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:717:7: Missing name of pseudo-class
+
+(sugar-activity:4652): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:746:7: Missing name of pseudo-class
+
+(sugar-activity:4652): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:760:7: Missing name of pseudo-class
+1445044910.488516 WARNING root: No Gtk.AccelGroup in the top level window.
+1445044910.600699 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044910.629629 WARNING root: icon_size is deprecated. Use pixel_size instead.
+1445044910.661032 WARNING root: icon_size is deprecated. Use pixel_size instead.
+
+(sugar-activity:4652): Gtk-CRITICAL **: gtk_container_remove: assertion `gtk_widget_get_parent (widget) == GTK_WIDGET (container) || GTK_IS_ASSISTANT (container)' failed
+
+(sugar-activity:4652): Gtk-CRITICAL **: gtk_container_remove: assertion `gtk_widget_get_parent (widget) == GTK_WIDGET (container) || GTK_IS_ASSISTANT (container)' failed
+
+(sugar-activity:4652): Gtk-CRITICAL **: gtk_box_pack: assertion `gtk_widget_get_parent (child) == NULL' failed
+
+(sugar-activity:4652): Gtk-CRITICAL **: gtk_box_pack: assertion `gtk_widget_get_parent (child) == NULL' failed
+1445044915.376730 WARNING root: No Gtk.AccelGroup in the top level window.
+Best voice for LANG en_US.UTF-8 seems to be en-us English-us
+Exited with status 0, pid 4652 data (None, <open file '<fdopen>', mode 'w' at 0x14c8b20>, '0cdb47829d70f385425e14c12699b3dd396de2a1')
